@@ -23,5 +23,5 @@ This Flask application retrieves the top 25 movies from IMDB for a specified yea
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/top-25-movies-flask-app.git
-   cd top-25-movies-flask-app
+   git clone https://github.com/SaiVishwa021/Top25Movies.git
+   ```
