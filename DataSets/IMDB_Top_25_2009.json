@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. X-Men Origins: Wolverine",
+        "rating": "6.5",
+        "description": "The early years of James Logan, featuring his rivalry with his brother Victor Creed, his service in the special forces team Weapon X, and his experimentation into the metal-lined mutant Wolverine."
+    },
+    "2": {
+        "name": "2. Modern Family",
+        "rating": "8.5",
+        "description": "Three different, but related, families face trials and tribulations in their own uniquely comedic ways."
+    },
+    "3": {
+        "name": "3. The Vampire Diaries",
+        "rating": "7.7",
+        "description": "The lives, loves, dangers and disasters in the town, Mystic Falls, Virginia. Creatures of unspeakable horror lurk beneath this town as a teenage girl is suddenly torn between two vampire brothers."
+    },
+    "4": {
+        "name": "4. Castle",
+        "rating": "8.1",
+        "description": "When a psychopath commits murders based on novelist Castle's books, Detective Beckett seeks his help to solve the case. He decides to work with her and uses his experiences as research for his novels."
+    },
+    "5": {
+        "name": "5. White Collar",
+        "rating": "8.2",
+        "description": "A white-collar criminal agrees to help the FBI catch other white-collar criminals using his expertise as an art and securities thief, counterfeiter, and conman."
+    },
+    "6": {
+        "name": "6. Parks and Recreation",
+        "rating": "8.6",
+        "description": "The absurd antics of an Indiana town's public officials as they pursue sundry projects to make their city a better place."
+    },
+    "7": {
+        "name": "7. Inglourious Basterds",
+        "rating": "8.4",
+        "description": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same."
+    },
+    "8": {
+        "name": "8. The Good Wife",
+        "rating": "8.4",
+        "description": "Alicia Florrick has been a good wife to her husband, a former state's attorney. After a very humiliating sex and corruption scandal, he is behind bars. She must now provide for her family and returns to work as a litigator in a law firm."
+    },
+    "9": {
+        "name": "9. Community",
+        "rating": "8.5",
+        "description": "A suspended lawyer is forced to enroll in a community college with an eccentric staff and student body."
+    },
+    "10": {
+        "name": "10. The Middle",
+        "rating": "7.7",
+        "description": "The daily mishaps of a married woman and her semi-dysfunctional family and their attempts to survive life in general in the town of Orson, Indiana."
+    },
+    "11": {
+        "name": "11. The Hangover",
+        "rating": "7.7",
+        "description": "Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing. They make their way around the city in order to find their friend before his wedding."
+    },
+    "12": {
+        "name": "12. The Proposal",
+        "rating": "6.8",
+        "description": "When New York editor Margaret faces deportation, she convinces her assistant Andrew to marry her in return for a promotion. However, when she visits his hometown, it changes her in many ways."
+    },
+    "13": {
+        "name": "13. Archer",
+        "rating": "8.6",
+        "description": "Covert black ops and espionage take a back seat to zany personalities and relationships between secret agents and drones."
+    },
+    "14": {
+        "name": "14. Watchmen",
+        "rating": "7.6",
+        "description": "In a version of 1985 where superheroes exist, the murder of a colleague sends active vigilante Rorschach on the trail of a conspiracy that will change the course of history."
+    },
+    "15": {
+        "name": "15. Sherlock Holmes",
+        "rating": "7.6",
+        "description": "Detective Sherlock Holmes and his stalwart partner Watson engage in a battle of wits and brawn with a nemesis whose plot is a threat to all of England."
+    },
+    "16": {
+        "name": "16. (500) Days of Summer",
+        "rating": "7.7",
+        "description": "After being dumped by the girl he believes to be his soulmate, hopeless romantic Tom Hansen reflects on their relationship to try and figure out where things went wrong and how he can win her back."
+    },
+    "17": {
+        "name": "17. Coraline",
+        "rating": "7.7",
+        "description": "Wandering her rambling old house in her boring new town, an 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice."
+    },
+    "18": {
+        "name": "18. Avatar",
+        "rating": "7.9",
+        "description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home."
+    },
+    "19": {
+        "name": "19. Hagane No Renkinjutsushi",
+        "rating": "9.1",
+        "description": "Two brothers search for a Philosopher's Stone after an attempt to revive their deceased mother goes awry and leaves them in damaged physical forms."
+    },
+    "20": {
+        "name": "20. Glee",
+        "rating": "6.8",
+        "description": "A group of ambitious misfits try to escape the harsh realities of high school by joining a glee club headed by a passionate Spanish teacher."
+    },
+    "21": {
+        "name": "21. Royal Pains",
+        "rating": "7.2",
+        "description": "An unfairly discredited but brilliant ER doctor winds up working with his younger brother in the Hamptons as a concierge doctor to the uber-rich and ultra-elite."
+    },
+    "22": {
+        "name": "22. NCIS: Los Angeles",
+        "rating": "6.8",
+        "description": "Follows undercover agents assigned to the Office of Special Projects, a special branch of the Naval Criminal Investigative Service (NCIS) that investigate terrorism and National Security threats."
+    },
+    "23": {
+        "name": "23. Brothers",
+        "rating": "7.1",
+        "description": "While on tour in Afghanistan, Sam's helicopter is shot down and he is presumed dead. Back home, it is his screw-up brother who looks after the family. Sam does return, but with a lot of excess baggage."
+    },
+    "24": {
+        "name": "24. The Human Centipede (First Sequence)",
+        "rating": "4.4",
+        "description": "A mad scientist kidnaps and mutilates a trio of tourists in order to reassemble them into a human centipede, created by stitching their mouths to each others' rectums."
+    },
+    "25": {
+        "name": "25. Star Trek",
+        "rating": "7.9",
+        "description": "The brash James T. Kirk tries to live up to his father's legacy with Mr. Spock keeping him in check as a vengeful Romulan from the future creates black holes to destroy the Federation one planet at a time."
+    }
+}

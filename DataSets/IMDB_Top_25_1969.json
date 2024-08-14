@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. Brady Bunch",
+        "rating": "6.8",
+        "description": "The misadventures of a large family united when a widower and a widow marry."
+    },
+    "2": {
+        "name": "2. Midnight Cowboy",
+        "rating": "7.8",
+        "description": "A naive hustler travels from Texas to New York City to seek personal fortune, finding a new friend in the process."
+    },
+    "3": {
+        "name": "3. Easy Rider",
+        "rating": "7.2",
+        "description": "Two bikers head from L.A. to New Orleans through the open country and desert lands, and along the way they meet a man who bridges a counter-culture gap of which they had been unaware."
+    },
+    "4": {
+        "name": "4. Butch Cassidy and the Sundance Kid",
+        "rating": "8.0",
+        "description": "In 1890s Wyoming, Butch Cassidy and The Sundance Kid lead a band of outlaws. When a train robbery goes wrong, they find themselves on the run with a posse hard on their heels.."
+    },
+    "5": {
+        "name": "5. True Grit",
+        "rating": "7.4",
+        "description": "A drunken, hard-nosed U.S. Marshal and a Texas Ranger help a stubborn teenager track down her father's murderer in Indian Territory."
+    },
+    "6": {
+        "name": "6. Scooby Doo, Where Are You!",
+        "rating": "7.9",
+        "description": "A group of teenage friends and their Great Dane (Scooby-Doo) travel in a bright green van solving strange and hilarious mysteries, while returning from or going to a regular teenage function."
+    },
+    "7": {
+        "name": "7. Age of Consent",
+        "rating": "6.3",
+        "description": "Grizzled Australian painter Bradley Morahan decides to jolt his stale creativity by moving to a remote island on the Great Barrier Reef, where he takes on an alluring, uninhibited young woman named Cora as his muse."
+    },
+    "8": {
+        "name": "8. Sesame Street",
+        "rating": "8.1",
+        "description": "On a special inner city street, the inhabitants, human and muppet, teach preschool subjects with comedy, cartoons, games, and songs."
+    },
+    "9": {
+        "name": "9. Support Your Local Sheriff!",
+        "rating": "7.5",
+        "description": "In the old west, a man becomes a Sheriff just for the pay, figuring he can decamp if things get tough. In the end, he uses ingenuity instead."
+    },
+    "10": {
+        "name": "10. The Sinners",
+        "rating": "7.1",
+        "description": "Lovers Marianne and Jean-Paul spend their vacation in a villa on the French Riviera near St-Tropez. Marianne invites her former lover, Harry, and his teenage daughter, Penelope, to stay. Tension rises between them, especially when Jean-Paul seduces Penelope."
+    },
+    "11": {
+        "name": "11. The Italian Job",
+        "rating": "7.2",
+        "description": "A comic caper movie about a plan to steal a gold shipment from the streets of Turin by creating a traffic jam."
+    },
+    "12": {
+        "name": "12. The Wild Bunch",
+        "rating": "7.9",
+        "description": "An aging group of outlaws look for one last big score as the \"traditional\" American West is disappearing around them."
+    },
+    "13": {
+        "name": "13. On Her Majesty's Secret Service",
+        "rating": "6.7",
+        "description": "British agent James Bond goes undercover to pursue the villainous Ernst Stavro Blofeld, who is planning to hold the world to ransom."
+    },
+    "14": {
+        "name": "14. Battle of Britain",
+        "rating": "6.9",
+        "description": "In 1940, the British Royal Air Force fights a desperate battle to prevent the Luftwaffe from gaining air superiority over the English Channel as a prelude to a possible Axis invasion of the U.K."
+    },
+    "15": {
+        "name": "15. Hello, Dolly!",
+        "rating": "7.0",
+        "description": "Matchmaker Dolly Levi travels to Yonkers to find a partner for \"half-a-millionaire\" Horace Vandergelder, convincing his niece, his niece's intended, and his two clerks to travel to New York City along the way."
+    },
+    "16": {
+        "name": "16. Z",
+        "rating": "8.2",
+        "description": "The public murder of a prominent politician and doctor amid a violent demonstration is covered up by military and government officials. A tenacious magistrate is determined not to let them get away with it."
+    },
+    "17": {
+        "name": "17. Monty Python's Flying Circus",
+        "rating": "8.8",
+        "description": "The original surreal sketch comedy showcase for the Monty Python troupe."
+    },
+    "18": {
+        "name": "18. Night Gallery",
+        "rating": "7.9",
+        "description": "Rod Serling presents tales of horror illustrated in various paintings."
+    },
+    "19": {
+        "name": "19. Army of Shadows",
+        "rating": "8.1",
+        "description": "An account of underground resistance fighters in Nazi-occupied France."
+    },
+    "20": {
+        "name": "20. The Benny Hill Show",
+        "rating": "7.6",
+        "description": "A skit based show with Benny Hill, often containing smutty humour."
+    },
+    "21": {
+        "name": "21. Carry on Camping",
+        "rating": "6.6",
+        "description": "Farcical misadventures by guests in an English holiday centre."
+    },
+    "22": {
+        "name": "22. Women in Love",
+        "rating": "7.1",
+        "description": "Two best friends fall in love with a pair of women, but the relationships soon go in very different directions."
+    },
+    "23": {
+        "name": "23. The Good Guys and the Bad Guys",
+        "rating": "6.1",
+        "description": "Aging lawman Marshall Flagg and aging outlaw John McKay join forces when their respective positions in society are usurped by both a younger incompetent Marshal and young vicious gang leader Waco."
+    },
+    "24": {
+        "name": "24. Love Bug",
+        "rating": "6.5",
+        "description": "Down-on-his-luck race car driver Jim Douglas teams up with a little VW Bug that has a mind of it's own, not realizing Herbie's worth until a sneaky rival plots to steal him."
+    },
+    "25": {
+        "name": "25. Hee Haw",
+        "rating": "7.0",
+        "description": "Televised comedy/variety show with a country bent."
+    }
+}

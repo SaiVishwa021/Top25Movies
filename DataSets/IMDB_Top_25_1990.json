@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. Law & Order",
+        "rating": "7.8",
+        "description": "Two Part drama which focuses on the New York criminal Justice System showing a murder Investigation by Police and then the criminal prosecution in court by the prosecutors."
+    },
+    "2": {
+        "name": "2. Presumed Innocent",
+        "rating": "6.9",
+        "description": "As a lawyer investigates the murder of a colleague, he finds himself more connected to the crime than anyone else."
+    },
+    "3": {
+        "name": "3. Beverly Hills, 90210",
+        "rating": "6.5",
+        "description": "A group of friends living in Beverly Hills, California make their way through life from their school days into adulthood."
+    },
+    "4": {
+        "name": "4. GoodFellas",
+        "rating": "8.7",
+        "description": "The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito."
+    },
+    "5": {
+        "name": "5. Pretty Woman",
+        "rating": "7.1",
+        "description": "Edward, a rich entrepreneur, hires Vivian, a prostitute, to accompany him to a few social events. Trouble ensues when he falls in love with her and they try to bridge the gap between their worlds."
+    },
+    "6": {
+        "name": "6. Northern Exposure",
+        "rating": "8.4",
+        "description": "A city doctor is forced to work in the remote Alaskan town of Cicely, where he encounters peculiar locals, including a former astronaut, as he adjusts to small-town life."
+    },
+    "7": {
+        "name": "7. Home Alone",
+        "rating": "7.7",
+        "description": "An eight-year-old troublemaker, mistakenly left home alone, must defend his home against a pair of burglars on Christmas Eve."
+    },
+    "8": {
+        "name": "8. Tremors",
+        "rating": "7.2",
+        "description": "Natives of a small isolated town defend themselves against strange underground creatures which are killing them one by one."
+    },
+    "9": {
+        "name": "9. Teenage Mutant Ninja Turtles",
+        "rating": "6.8",
+        "description": "Four teenage mutant ninja turtles emerge from the shadows to protect New York City from a gang of criminal ninjas."
+    },
+    "10": {
+        "name": "10. It",
+        "rating": "6.8",
+        "description": "In 1960, seven pre-teen outcasts fight an evil demon who poses as a child-killing clown. Thirty years later, they reunite to stop the demon once and for all when it returns to their hometown."
+    },
+    "11": {
+        "name": "11. Awakenings",
+        "rating": "7.8",
+        "description": "Dr. Sayer is a pioneering neurologist who wants to take a risk and give his patients who suffer from encephalitis a drug used for Parkinson's Disease. He tries it out on one man who miraculously wakes from his perpetual catatonic state."
+    },
+    "12": {
+        "name": "12. Total Recall",
+        "rating": "7.5",
+        "description": "When a man goes in to have virtual vacation memories of the planet Mars implanted in his mind, an unexpected and harrowing series of events forces him to go to the planet for real - or is he?"
+    },
+    "13": {
+        "name": "13. Ghost",
+        "rating": "7.1",
+        "description": "After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic."
+    },
+    "14": {
+        "name": "14. The Godfather Part III",
+        "rating": "7.6",
+        "description": "Follows Michael Corleone, now in his 60s, as he seeks to free his family from crime and find a suitable successor to his empire."
+    },
+    "15": {
+        "name": "15. Dances with Wolves",
+        "rating": "8.0",
+        "description": "Lieutenant John Dunbar, assigned to a remote western Civil War outpost, finds himself engaging with a neighbouring Sioux settlement, causing him to question his own purpose."
+    },
+    "16": {
+        "name": "16. The Fresh Prince of Bel-Air",
+        "rating": "7.9",
+        "description": "A streetwise, poor young man from Philadelphia is sent by his mother to live with his aunt, uncle and cousins in their Bel-Air mansion."
+    },
+    "17": {
+        "name": "17. Edward Scissorhands",
+        "rating": "7.9",
+        "description": "The solitary life of an artificial man - who was incompletely constructed and has scissors for hands - is upended when he is taken in by a suburban family."
+    },
+    "18": {
+        "name": "18. Misery",
+        "rating": "7.8",
+        "description": "After a famous author is rescued from a car crash by a fan of his novels, he comes to realize that the care he is receiving is only the beginning of a nightmare of captivity and abuse."
+    },
+    "19": {
+        "name": "19. The Hunt for Red October",
+        "rating": "7.5",
+        "description": "In November 1984, the Soviet Union's best submarine captain violates orders and heads for the U.S. in a new undetectable sub. The American CIA and military must quickly determine: Is he trying to defect or to start a war?"
+    },
+    "20": {
+        "name": "20. Wings",
+        "rating": "7.3",
+        "description": "Brothers Brian and Joe Hackett attempt to run an airline on the New England island of Nantucket while surrounded by their various wacky friends and employees."
+    },
+    "21": {
+        "name": "21. Predator 2",
+        "rating": "6.3",
+        "description": "The Predator returns to Earth, this time to stake a claim on the war-torn streets of a dystopian Los Angeles."
+    },
+    "22": {
+        "name": "22. Kindergarten Cop",
+        "rating": "6.2",
+        "description": "A tough cop must pose as a kindergarten teacher in order to locate a dangerous criminal's ex-wife, who may hold the key to putting him behind bars."
+    },
+    "23": {
+        "name": "23. Back to the Future Part III",
+        "rating": "7.4",
+        "description": "Stranded in 1955, Marty McFly learns about the death of Doc Brown in 1885 and must travel back in time to save him. With no fuel readily available for the DeLorean, the two must figure how to escape the Old West before Emmett is murdered."
+    },
+    "24": {
+        "name": "24. Jacob's Ladder",
+        "rating": "7.4",
+        "description": "Mourning his dead child, a haunted Vietnam War veteran attempts to uncover his past while suffering from a severe case of dissociation. To do so, he must decipher reality and life from his own dreams, delusions, and perceptions of death."
+    },
+    "25": {
+        "name": "25. Wild at Heart",
+        "rating": "7.2",
+        "description": "Young lovers Sailor and Lula run from the variety of weirdos that Lula's mom has hired to kill Sailor."
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. Spartacus",
+        "rating": "7.9",
+        "description": "The slave Spartacus survives brutal training as a gladiator and leads a violent revolt against the decadent Roman Republic, as the ambitious Crassus seeks to gain power by crushing the uprising."
+    },
+    "2": {
+        "name": "2. The Andy Griffith Show",
+        "rating": "8.4",
+        "description": "Widower Sheriff Andy Taylor, and his son Opie, live with Andy's Aunt Bee in Mayberry, North Carolina. With virtually no crimes to solve, most of Andy's time is spent philosophizing and calming down his cousin Deputy Barney Fife."
+    },
+    "3": {
+        "name": "3. Psycho",
+        "rating": "8.5",
+        "description": "A secretary on the run for embezzlement takes refuge at a secluded California motel owned by a repressed man and his overbearing mother."
+    },
+    "4": {
+        "name": "4. Coronation Street",
+        "rating": "5.6",
+        "description": "The world's longest-running television soap, Coronation Street focuses on the everyday lives of working-class people in Manchester, England."
+    },
+    "5": {
+        "name": "5. The Three Sons",
+        "rating": "7.1",
+        "description": "Widower Steve Douglas raises three sons with the help of his father-in-law, and is later aided by the boys' great-uncle. An adopted son, a stepdaughter, wives, and another generation of sons join the loving family in later seasons."
+    },
+    "6": {
+        "name": "6. The Magnificent Seven",
+        "rating": "7.7",
+        "description": "Seven gunfighters are hired by Mexican peasants to liberate their village from oppressive bandits."
+    },
+    "7": {
+        "name": "7. The Apartment",
+        "rating": "8.3",
+        "description": "A Manhattan insurance clerk tries to rise in his company by letting its executives use his apartment for trysts, but office politics and his own romantic hopes complicate matters."
+    },
+    "8": {
+        "name": "8. BUtterfield 8",
+        "rating": "6.3",
+        "description": "A beautiful New York model and socialite enjoys a very active night-life, but all things change when she falls for a married man and the consequences are tragic."
+    },
+    "9": {
+        "name": "9. Purple Noon",
+        "rating": "7.7",
+        "description": "Tom Ripley is a talented mimic, moocher, forger and all-around criminal improviser; but there's more to Tom Ripley than even he can guess."
+    },
+    "10": {
+        "name": "10. La dolce vita",
+        "rating": "8.0",
+        "description": "A series of stories following a week in the life of a philandering tabloid journalist living in Rome."
+    },
+    "11": {
+        "name": "11. The Flintstones",
+        "rating": "7.5",
+        "description": "The misadventures of two modern-day Stone Age families, the Flintstones and the Rubbles."
+    },
+    "12": {
+        "name": "12. Breathless",
+        "rating": "7.7",
+        "description": "A small-time crook, hunted by the authorities for a car theft and the murder of a police officer, attempts to persuade a hip American journalism student to run away with him to Italy."
+    },
+    "13": {
+        "name": "13. The Sundowners",
+        "rating": "7.1",
+        "description": "In Australia's Outback during the early twentieth century, the impoverished Carmody family lives a nomadic life out of their wagon, but the mom and son want to settle, while the dad is against it."
+    },
+    "14": {
+        "name": "14. Ocean's Eleven",
+        "rating": "6.5",
+        "description": "Danny Ocean gathers a group of his World War II compatriots to pull off the ultimate Las Vegas heist. Together the eleven friends plan to rob five Las Vegas casinos in one night."
+    },
+    "15": {
+        "name": "15. Peeping Tom",
+        "rating": "7.6",
+        "description": "A young man murders women, using a movie camera to film their dying expressions of terror."
+    },
+    "16": {
+        "name": "16. The Time Machine",
+        "rating": "7.5",
+        "description": "A man's vision for a utopian society is disillusioned when travelling forward into time reveals a dark and dangerous society."
+    },
+    "17": {
+        "name": "17. Swiss Family Robinson",
+        "rating": "7.1",
+        "description": "A Swiss family must survive being shipwrecked on a deserted island."
+    },
+    "18": {
+        "name": "18. Elmer Gantry",
+        "rating": "7.7",
+        "description": "A fast-talking traveling salesman with a charming, loquacious manner convinces a sincere evangelist that he can be an effective preacher for her cause."
+    },
+    "19": {
+        "name": "19. Inherit the Wind",
+        "rating": "8.1",
+        "description": "Based on a real-life case in 1925; two great lawyers argue the case for, and against, a Tennessee science teacher accused of the crime of teaching Darwin's theory of evolution."
+    },
+    "20": {
+        "name": "20. Pollyanna",
+        "rating": "7.4",
+        "description": "A young girl comes to an embittered town and confronts its attitude with her determination to see the best in life."
+    },
+    "21": {
+        "name": "21. Route 66",
+        "rating": "7.7",
+        "description": "The adventures of two young drifters across America."
+    },
+    "22": {
+        "name": "22. The Little Shop of Horrors",
+        "rating": "6.2",
+        "description": "A clumsy young man working at an impoverished flower shop discovers that the strange plant he has been nurturing has an insatiable appetite for blood, forcing him to kill to feed it."
+    },
+    "23": {
+        "name": "23. Les yeux sans visage",
+        "rating": "7.6",
+        "description": "A surgeon causes an accident which leaves his daughter disfigured and goes to extreme lengths to give her a new face."
+    },
+    "24": {
+        "name": "24. Exodus",
+        "rating": "6.7",
+        "description": "The State of Israel is created in 1948, resulting in war with its Arab neighbors."
+    },
+    "25": {
+        "name": "25. The Alamo",
+        "rating": "6.8",
+        "description": "In 1836, a small band of soldiers sacrifice their lives in hopeless combat against a massive army in order to prevent a tyrant from smashing the new Republic of Texas."
+    }
+}

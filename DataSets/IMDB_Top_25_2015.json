@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. Better Call Saul",
+        "rating": "9.0",
+        "description": "The trials and tribulations of criminal lawyer Jimmy McGill in the years leading up to and into his fateful run-in with Walter White and Jesse Pinkman."
+    },
+    "2": {
+        "name": "2. The Last Kingdom",
+        "rating": "8.5",
+        "description": "As Alfred the Great defends his kingdom from Norse invaders, Uhtred--born a Saxon but raised by Vikings--seeks to claim his ancestral birthright."
+    },
+    "3": {
+        "name": "3. Bone Tomahawk",
+        "rating": "7.1",
+        "description": "In the dying days of the old west, an elderly sheriff and his posse set out to rescue their town's doctor from cannibalistic cave dwellers."
+    },
+    "4": {
+        "name": "4. Inside Out",
+        "rating": "8.1",
+        "description": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school."
+    },
+    "5": {
+        "name": "5. Mr. Robot",
+        "rating": "8.5",
+        "description": "Elliot, a brilliant but unstable cyber-security engineer and vigilante hacker, becomes a key figure in a complex game of global chaos when he and his shadowy allies try to take down the corrupt corporation his company is paid to protect."
+    },
+    "6": {
+        "name": "6. Mad Max: Fury Road",
+        "rating": "8.1",
+        "description": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshipper and a drifter named Max."
+    },
+    "7": {
+        "name": "7. Love",
+        "rating": "6.1",
+        "description": "Murphy is an American living in Paris who enters a highly sexually and emotionally charged relationship with Electra. Unaware of the effect it will have on their relationship, they invite their pretty neighbor into their bed."
+    },
+    "8": {
+        "name": "8. The Man from U.N.C.L.E.",
+        "rating": "7.2",
+        "description": "In the early 1960s, CIA agent Napoleon Solo and KGB operative Illya Kuryakin participate in a joint mission against a mysterious criminal organization, which is working to proliferate nuclear weapons."
+    },
+    "9": {
+        "name": "9. Descendants",
+        "rating": "6.3",
+        "description": "The teenage son of the king and queen of Auradon offers the trouble-making children of villains a chance to attend prep school in the kingdom."
+    },
+    "10": {
+        "name": "10. The Age of Adaline",
+        "rating": "7.2",
+        "description": "A young woman, born at the turn of the 20th century, is rendered ageless after an accident. After many solitary years, she meets a man who complicates the eternal life she has settled into."
+    },
+    "11": {
+        "name": "11. Daredevil",
+        "rating": "8.6",
+        "description": "A blind lawyer by day, vigilante by night. Matt Murdock fights the crime of New York as Daredevil."
+    },
+    "12": {
+        "name": "12. Fifty Shades of Grey",
+        "rating": "4.2",
+        "description": "Literature student Anastasia Steele's life changes forever when she meets handsome, yet tormented, billionaire Christian Grey."
+    },
+    "13": {
+        "name": "13. Narcos",
+        "rating": "8.8",
+        "description": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country through the years."
+    },
+    "14": {
+        "name": "14. Knock Knock",
+        "rating": "4.9",
+        "description": "A devoted husband and father helps two stranded young women who knock on his door, but his kind gesture turns into a dangerous seduction and a deadly game of cat and mouse."
+    },
+    "15": {
+        "name": "15. The Expanse",
+        "rating": "8.5",
+        "description": "The disappearance of rich-girl-turned-political-activist links the lives of Ceres detective, accidental ship captain and U.N. politician. Amidst political tension between Earth, Mars and the Belt, they unravel the greatest conspiracy."
+    },
+    "16": {
+        "name": "16. Fantastic Four",
+        "rating": "4.3",
+        "description": "Four young outsiders teleport to an alternate and dangerous universe which alters their physical form in shocking ways. The four must learn to harness their new abilities and work together to save Earth from a former friend turned enemy."
+    },
+    "17": {
+        "name": "17. Schitt's Creek",
+        "rating": "8.5",
+        "description": "After being a victim of fraud, Johnny Rose and his family go from extremely wealthy to penniless overnight. The only asset left to them is a small, unsophisticated town: Schitt's Creek. They relocate there. Culture shock ensues."
+    },
+    "18": {
+        "name": "18. Room",
+        "rating": "8.1",
+        "description": "A little boy is held captive in a room with his mother since his birth, so he has never known the world outside."
+    },
+    "19": {
+        "name": "19. Bloodline",
+        "rating": "7.9",
+        "description": "A family is forced to face their past secrets and scars when the black sheep returns home."
+    },
+    "20": {
+        "name": "20. Chicago Med",
+        "rating": "7.6",
+        "description": "The city's most highly skilled medical team saves lives, while navigating their unique interpersonal relationships."
+    },
+    "21": {
+        "name": "21. Fear the Walking Dead",
+        "rating": "6.8",
+        "description": "A Walking Dead spinoff set in Los Angeles, California. Follows two families who must band together to survive the undead apocalypse."
+    },
+    "22": {
+        "name": "22. Superstore",
+        "rating": "7.9",
+        "description": "A look at the lives of employees at a big box store."
+    },
+    "23": {
+        "name": "23. The VVitch: A New-England Folktale",
+        "rating": "7.0",
+        "description": "A family in 1630s New England is torn apart by the forces of witchcraft, black magic and possession."
+    },
+    "24": {
+        "name": "24. The Visit",
+        "rating": "6.3",
+        "description": "Two siblings become increasingly frightened by their grandparents' disturbing behavior while visiting them on vacation."
+    },
+    "25": {
+        "name": "25. The Man in the High Castle",
+        "rating": "7.9",
+        "description": "In a dystopian America dominated by Nazi Germany and Imperial Japan, a young woman discovers a mysterious film that may hold the key to toppling the totalitarian regimes."
+    }
+}

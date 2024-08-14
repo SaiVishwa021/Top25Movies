@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. X-Men",
+        "rating": "7.3",
+        "description": "In a world where mutants (evolved super-powered humans) exist and are discriminated against, two groups form for an inevitable clash: the supremacist Brotherhood, and the pacifist X-Men."
+    },
+    "2": {
+        "name": "2. Gladiator",
+        "rating": "8.5",
+        "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+    },
+    "3": {
+        "name": "3. Gilmore Girls",
+        "rating": "8.2",
+        "description": "A dramedy centering around the relationship between a thirtysomething single mother and her teen daughter living in Stars Hollow, Connecticut."
+    },
+    "4": {
+        "name": "4. Curb Your Enthusiasm",
+        "rating": "8.8",
+        "description": "Larry David stars as an over-the-top version of himself in this comedy series that shows how seemingly trivial details of day-to-day life can precipitate a catastrophic chain of events."
+    },
+    "5": {
+        "name": "5. Final Destination",
+        "rating": "6.7",
+        "description": "After getting a premonition about a plane crash on his school trip, Alex, a student, saves a few of his classmates. However, their situation gets complicated when death starts chasing them."
+    },
+    "6": {
+        "name": "6. American Psycho",
+        "rating": "7.6",
+        "description": "A wealthy New York City investment banking executive, Patrick Bateman, hides his alternate psychopathic ego from his co-workers and friends as he delves deeper into his violent, hedonistic fantasies."
+    },
+    "7": {
+        "name": "7. CSI: Crime Scene Investigation",
+        "rating": "7.7",
+        "description": "Follows a group of Crime Scene Investigators (CSI's) who work with the Las Vegas Police Department (LVPD) to solve crimes by meticulously examining evidence by using advanced scientific methods and technology in Las Vegas, Nevada."
+    },
+    "8": {
+        "name": "8. Requiem for a Dream",
+        "rating": "8.3",
+        "description": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.."
+    },
+    "9": {
+        "name": "9. Malcolm in the Middle",
+        "rating": "8.2",
+        "description": "A gifted young teen tries to survive life with his dimwitted, dysfunctional family."
+    },
+    "10": {
+        "name": "10. Bring It On",
+        "rating": "6.1",
+        "description": "A champion high school cheerleading squad discovers its previous captain stole all their best routines from an inner-city school and must scramble to compete at this year's championships."
+    },
+    "11": {
+        "name": "11. Memento",
+        "rating": "8.4",
+        "description": "Leonard Shelby, an insurance investigator, suffers from anterograde amnesia and uses notes and tattoos to hunt for the man he thinks killed his wife, which is the last thing he remembers."
+    },
+    "12": {
+        "name": "12. Mal\u00e8na",
+        "rating": "7.4",
+        "description": "Amidst the war climate, a teenage boy discovering himself becomes love-stricken by Mal\u00e8na, a sensual woman living in a small, narrow-minded Italian town."
+    },
+    "13": {
+        "name": "13. Snatch",
+        "rating": "8.2",
+        "description": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond."
+    },
+    "14": {
+        "name": "14. Almost Famous",
+        "rating": "7.9",
+        "description": "A high-school boy in the early 1970s is given the chance to write a story for Rolling Stone magazine about an up-and-coming rock band as he accompanies them on their concert tour."
+    },
+    "15": {
+        "name": "15. Unbreakable",
+        "rating": "7.3",
+        "description": "A man learns something extraordinary about himself after a devastating accident."
+    },
+    "16": {
+        "name": "16. Erin Brockovich",
+        "rating": "7.4",
+        "description": "An unemployed single mother becomes a legal assistant and almost single-handedly brings down a California power company accused of polluting a city's water supply."
+    },
+    "17": {
+        "name": "17. What Women Want",
+        "rating": "6.4",
+        "description": "A cocky, chauvinistic advertising executive magically acquires the ability to hear what women are thinking."
+    },
+    "18": {
+        "name": "18. All the Pretty Horses",
+        "rating": "5.8",
+        "description": "Two Texas cowboys head to Mexico in search of work, but soon find themselves in trouble with the law after one of them falls in love with a wealthy rancher's daughter."
+    },
+    "19": {
+        "name": "19. Scary Movie",
+        "rating": "6.3",
+        "description": "A year after disposing of the body of a man they accidentally killed, a group of dumb teenagers are stalked by a bumbling serial killer."
+    },
+    "20": {
+        "name": "20. The Beach",
+        "rating": "6.6",
+        "description": "On vacation in Thailand, Richard sets out for an island rumored to be a solitary beach paradise."
+    },
+    "21": {
+        "name": "21. Remember the Titans",
+        "rating": "7.8",
+        "description": "In 1971 Virginia high school football was everything to the people of Alexandria. But when the school board was forced to integrate an all-black school with an all-white one, the very foundation of football's tradition was put to the test."
+    },
+    "22": {
+        "name": "22. The Perfect Storm",
+        "rating": "6.5",
+        "description": "An unusually intense storm pattern catches some commercial fishermen unaware and puts them in mortal danger."
+    },
+    "23": {
+        "name": "23. Coyote Ugly",
+        "rating": "5.7",
+        "description": "Aspiring songwriter Violet Sanford, after getting a job at a women-run NYC bar that teases its male patrons, comes out of her shell."
+    },
+    "24": {
+        "name": "24. Mission: Impossible II",
+        "rating": "6.1",
+        "description": "IMF agent Ethan Hunt is sent to Sydney to find and destroy a genetically modified disease called \"Chimera\"."
+    },
+    "25": {
+        "name": "25. The Patriot",
+        "rating": "7.2",
+        "description": "Peaceful farmer Benjamin Martin is driven to lead the Colonial Militia during the American Revolution when a sadistic British officer murders his son."
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. Star Wars: Episode IV - A New Hope",
+        "rating": "8.6",
+        "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+    },
+    "2": {
+        "name": "2. The Love Boat",
+        "rating": "6.3",
+        "description": "The romantic and comic tales of the passengers and crew of the cruise ship, Pacific Princess."
+    },
+    "3": {
+        "name": "3. Close Encounters of the Third Kind",
+        "rating": "7.6",
+        "description": "Roy Neary, an Indiana electric lineman, finds his quiet and ordinary daily life turned upside down after a close encounter with a UFO, spurring him to an obsessed cross-country quest for answers as a momentous event approaches."
+    },
+    "4": {
+        "name": "4. Chips",
+        "rating": "6.4",
+        "description": "The adventures of two California Highway Patrol motorcycle officers."
+    },
+    "5": {
+        "name": "5. Saturday Night Fever",
+        "rating": "6.8",
+        "description": "Anxious about his future after high school, a 19-year-old Italian-American from Brooklyn tries to escape the harsh reality of his bleak family life by dominating the dance floor at the local disco."
+    },
+    "6": {
+        "name": "6. Death Game",
+        "rating": "5.7",
+        "description": "Swinging spinster Agatha Jackson and her young sidekick Donna come to the home of a well-to-do businessman whose family is out of town on his birthday. They seduce him and he drops them at the bus terminal. Sometime afterward they return and overpower him, tie him up and gag him, psychologically torture him and trash his house."
+    },
+    "7": {
+        "name": "7. Eraserhead",
+        "rating": "7.3",
+        "description": "Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newly born mutant child."
+    },
+    "8": {
+        "name": "8. Suspiria",
+        "rating": "7.3",
+        "description": "An American newcomer to a prestigious German ballet academy comes to realize that the school is a front for something sinister amid a series of grisly murders."
+    },
+    "9": {
+        "name": "9. Wages of Fear",
+        "rating": "7.7",
+        "description": "Four unfortunate men from different parts of the globe agree to risk their lives transporting gallons of nitroglycerin across dangerous Latin American jungle."
+    },
+    "10": {
+        "name": "10. Smokey and the Bandit",
+        "rating": "7.0",
+        "description": "The Bandit is hired on to run a tractor-trailer full of beer over state lines, in hot pursuit by a pesky sheriff."
+    },
+    "11": {
+        "name": "11. The Incredible Hulk",
+        "rating": "7.0",
+        "description": "A fugitive scientist has the curse of becoming a powerful green monster under extreme emotional stress."
+    },
+    "12": {
+        "name": "12. Soap",
+        "rating": "8.3",
+        "description": "The soap-operish antics of two families: the Campbells and the Tates."
+    },
+    "13": {
+        "name": "13. Annie Hall",
+        "rating": "8.0",
+        "description": "Alvy Singer, a divorced Jewish comedian, reflects on his relationship with ex-lover Annie Hall, an aspiring nightclub singer, which ended abruptly just like his previous marriages."
+    },
+    "14": {
+        "name": "14. A Bridge Too Far",
+        "rating": "7.4",
+        "description": "Operation Market Garden, September 1944: The Allies attempt to capture several strategically important bridges in the Netherlands in the hope of breaking the German lines."
+    },
+    "15": {
+        "name": "15. Slap Shot",
+        "rating": "7.3",
+        "description": "A failing ice hockey team finds success with outrageously violent hockey goonery."
+    },
+    "16": {
+        "name": "16. Eight Is Enough",
+        "rating": "6.6",
+        "description": "This comedy drama focused on a family with eight very independent children."
+    },
+    "17": {
+        "name": "17. The Spy Who Loved Me",
+        "rating": "7.0",
+        "description": "James Bond investigates the hijacking of British and Russian submarines carrying nuclear warheads, with the help of a K.G.B. agent whose lover he killed."
+    },
+    "18": {
+        "name": "18. The Deep",
+        "rating": "6.2",
+        "description": "In Bermuda, two amateur treasure-hunting divers have a run-in with local criminals when they inadvertently discover the secret cargo of a World War II shipwreck."
+    },
+    "19": {
+        "name": "19. Bilitis",
+        "rating": "5.3",
+        "description": "A coming of age story centering on the exploits of a young girl during summer vacation."
+    },
+    "20": {
+        "name": "20. Fantasy Island",
+        "rating": "6.6",
+        "description": "The mysterious Mr. Roarke runs a unique resort island in the Pacific Ocean that can fulfill any fantasy, but they rarely turn out as expected."
+    },
+    "21": {
+        "name": "21. The Rescuers",
+        "rating": "6.9",
+        "description": "Two mice of the Rescue Aid Society search for a little girl kidnapped by unscrupulous treasure hunters."
+    },
+    "22": {
+        "name": "22. Die Teuflischen Schwestern",
+        "rating": "4.4",
+        "description": "Edna confines Millie, her younger sister, to her bed while she is sedated. If Edna can show Millie is insane, she will be able to claim a estate for herself. However, Millie learns Edna's malicious schemes."
+    },
+    "23": {
+        "name": "23. House",
+        "rating": "7.3",
+        "description": "A schoolgirl and six of her classmates travel to her aunt's country home, which turns out to be haunted."
+    },
+    "24": {
+        "name": "24. Roots",
+        "rating": "8.4",
+        "description": "A dramatization of author Alex Haley's family line from ancestor Kunta Kinte's enslavement to his descendants' liberation."
+    },
+    "25": {
+        "name": "25. The Professionals",
+        "rating": "8.0",
+        "description": "Bodie and Doyle, senior agents of the British intelligence service CI5 (Criminal Intelligence 5), and their handler George Cowley fight terrorism and similar high-level crimes."
+    }
+}

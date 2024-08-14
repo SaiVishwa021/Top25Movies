@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. Lawrence of Arabia",
+        "rating": "8.3",
+        "description": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks."
+    },
+    "2": {
+        "name": "2. Lolita",
+        "rating": "7.5",
+        "description": "A middle-aged college professor becomes infatuated with a 14-year-old girl."
+    },
+    "3": {
+        "name": "3. Seppuku",
+        "rating": "8.6",
+        "description": "When a ronin requesting seppuku at a feudal lord's palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan's integrity."
+    },
+    "4": {
+        "name": "4. The Beverly Hillbillies",
+        "rating": "7.3",
+        "description": "A nouveau-riche hillbilly family moves to Beverly Hills and shakes up the privileged society with their hayseed ways."
+    },
+    "5": {
+        "name": "5. To Kill a Mockingbird",
+        "rating": "8.3",
+        "description": "Atticus Finch, a widowed lawyer in Depression-era Alabama, defends a Black man against an undeserved rape charge, and tries to educate his young children against prejudice."
+    },
+    "6": {
+        "name": "6. The Candidate of Manchuria",
+        "rating": "7.9",
+        "description": "An American POW in the Korean War is brainwashed as an unwitting assassin for an international Communist conspiracy."
+    },
+    "7": {
+        "name": "7. Dr. No",
+        "rating": "7.2",
+        "description": "A resourceful British government agent seeks answers in a case involving the disappearance of a colleague and the disruption of the American space program."
+    },
+    "8": {
+        "name": "8. The virginian",
+        "rating": "7.6",
+        "description": "Personable Western series based in Wyoming from the 1890s onward."
+    },
+    "9": {
+        "name": "9. The Alfred Hitchcock Hour",
+        "rating": "8.5",
+        "description": "\"The Alfred Hitchcock Hour\" was a continuation of the dramatic anthology series Alfred Hitchcock Presents (1955) hosted by the Master of Suspense and Mystery."
+    },
+    "10": {
+        "name": "10. What Ever Happened to Baby Jane?",
+        "rating": "8.0",
+        "description": "A former child star torments her paraplegic sister in their decaying Hollywood mansion."
+    },
+    "11": {
+        "name": "11. The Longest Day",
+        "rating": "7.7",
+        "description": "The events of D-Day, told on a grand scale from both the Allied and German points of view."
+    },
+    "12": {
+        "name": "12. Billy Budd",
+        "rating": "7.8",
+        "description": "When a kind-hearted sailor is made to join an English vessel at war in 1797, he finds himself caught between devotion to his crewmates and obedience to their hated, cruel master-at-arms."
+    },
+    "13": {
+        "name": "13. The Man Who Shot Liberty Valance",
+        "rating": "8.1",
+        "description": "A senator returns to a Western town for the funeral of an old friend and tells the story of his origins."
+    },
+    "14": {
+        "name": "14. Freud",
+        "rating": "7.2",
+        "description": "An examination of Czech-Austrian psychologist Sigmund Freud's career when he began to treat patients diagnosed with hysteria, using the radical technique of hypnosis."
+    },
+    "15": {
+        "name": "15. Combat!",
+        "rating": "8.4",
+        "description": "Combat!, a one-hour World War II drama series, followed a front line American infantry squad as they battled their way across Europe"
+    },
+    "16": {
+        "name": "16. The Saint",
+        "rating": "7.5",
+        "description": "Simon (the Saint) Templar's an adventurer, and friend to those in need. Where his money comes from isn't mentioned, but, he travels europe in his white Volvo P1800S righting wrongs."
+    },
+    "17": {
+        "name": "17. How the West Was Won",
+        "rating": "7.1",
+        "description": "A family saga covering several decades of Westward expansion in the 19th century, including the Gold Rush, the Civil War, and the building of the railroads."
+    },
+    "18": {
+        "name": "18. The Music Man",
+        "rating": "7.7",
+        "description": "Traveling con artist Harold Hill targets the na\u00efve residents of a small town in 1910s Iowa by posing as a boys' band leader to raise money before he can skip town."
+    },
+    "19": {
+        "name": "19. The Jetsons",
+        "rating": "7.0",
+        "description": "The misadventures of a futuristic family."
+    },
+    "20": {
+        "name": "20. Carnival of Souls",
+        "rating": "7.0",
+        "description": "After a traumatic accident, a woman becomes drawn to a mysterious abandoned carnival."
+    },
+    "21": {
+        "name": "21. Night of the Eagle",
+        "rating": "6.9",
+        "description": "A woman who may be a witch defends her husband from forces attempting to harm him."
+    },
+    "22": {
+        "name": "22. Mutiny on the Bounty",
+        "rating": "7.2",
+        "description": "In 1787, British ship Bounty leaves Portsmouth to bring a cargo of bread-fruit from Tahiti, but the savage on-board conditions imposed by Captain Bligh trigger a mutiny led by first officer Fletcher Christian."
+    },
+    "23": {
+        "name": "23. Cape Fear",
+        "rating": "7.7",
+        "description": "A lawyer's family is stalked by a man he once helped put in jail."
+    },
+    "24": {
+        "name": "24. The Lucy Show",
+        "rating": "7.2",
+        "description": "The wacky misadventures of a forever-scheming woman, her reluctant best friend, and her cantankerous boss."
+    },
+    "25": {
+        "name": "25. Cl\u00e9o de 5 \u00e0 7",
+        "rating": "7.8",
+        "description": "Cleo, a singer and hypochondriac, becomes increasingly worried that she might have cancer while awaiting test results from her doctor."
+    }
+}

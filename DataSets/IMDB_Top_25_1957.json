@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. Perry Mason",
+        "rating": "8.3",
+        "description": "The trials of a master criminal defense attorney handling the most difficult cases in support of the innocent."
+    },
+    "2": {
+        "name": "2. 12 Angry Men",
+        "rating": "9.0",
+        "description": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict."
+    },
+    "3": {
+        "name": "3. Beaver",
+        "rating": "7.6",
+        "description": "The misadventures of a suburban boy, family and friends."
+    },
+    "4": {
+        "name": "4. Raintree County",
+        "rating": "6.3",
+        "description": "A student falls in love with a Southern belle, but their relationship is complicated by her troubled past and the onset of the Civil War."
+    },
+    "5": {
+        "name": "5. Wagon Train",
+        "rating": "7.5",
+        "description": "Stories of the journeys of a wagon train as it leaves post-Civil War Missouri on its way to California through the plains, deserts, and Rocky Mountains."
+    },
+    "6": {
+        "name": "6. Legend of the Lost",
+        "rating": "6.1",
+        "description": "American ne'er-do-well Joe January is hired to take Paul Bonnard on an expedition into the desert in search of treasure."
+    },
+    "7": {
+        "name": "7. The Bridge on the River Kwai",
+        "rating": "8.1",
+        "description": "British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors in occupied Burma, not knowing that the allied forces are planning a daring commando raid through the jungle to destroy it."
+    },
+    "8": {
+        "name": "8. Det Sjunde Inseglet",
+        "rating": "8.1",
+        "description": "A knight returning to Sweden after the Crusades seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague."
+    },
+    "9": {
+        "name": "9. Paths of Glory",
+        "rating": "8.4",
+        "description": "After a failed attack on a German position, a general orders three soldiers, chosen at random, court-martialed for cowardice and their commanding officer must defend them."
+    },
+    "10": {
+        "name": "10. Tales of Wells Fargo",
+        "rating": "7.9",
+        "description": "Agent Jim Hardie splits his life between being an agent helping Wells Fargo cope with bad guys, and owning a ranch near San Francisco, California."
+    },
+    "11": {
+        "name": "11. An Affair to Remember",
+        "rating": "7.4",
+        "description": "A couple falls in love and agrees to meet in six months at the Empire State Building - but will it happen?"
+    },
+    "12": {
+        "name": "12. Witness for the Prosecution",
+        "rating": "8.4",
+        "description": "A veteran British barrister must defend his client in a murder trial that has surprise after surprise."
+    },
+    "13": {
+        "name": "13. Knight Without Armor",
+        "rating": "8.4",
+        "description": "The adventures of a gentlemanly gunfighter-for-hire."
+    },
+    "14": {
+        "name": "14. Peyton Place",
+        "rating": "7.2",
+        "description": "A peaceful New England town hides secrets and scandals."
+    },
+    "15": {
+        "name": "15. Old Yeller",
+        "rating": "7.2",
+        "description": "A teenage boy grows to love a stray yellow dog while helping his mother and younger brother run their Texas homestead while their father is away on a cattle drive. First thought to be good-for-nothing mutt, Old Yeller is soon beloved by all."
+    },
+    "16": {
+        "name": "16. Maverick",
+        "rating": "8.0",
+        "description": "Bret and Bart Maverick are well-dressed gamblers who migrate from town to town always looking for a good game."
+    },
+    "17": {
+        "name": "17. Smultronst\u00e4llet",
+        "rating": "8.1",
+        "description": "After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence."
+    },
+    "18": {
+        "name": "18. Plan 9 from Outer Space",
+        "rating": "3.9",
+        "description": "Evil aliens attack Earth and set their terrible \"Plan 9\" into action. As the aliens resurrect the dead of the Earth, the lives of the living are in danger."
+    },
+    "19": {
+        "name": "19. A Man in the Crowd",
+        "rating": "8.2",
+        "description": "Female radio reporter Marcia Jeffries turns folk-singing drifter Larry \"Lonesome\" Rhoades into a powerful media star who becomes utterly detestable during his meteoric rise."
+    },
+    "20": {
+        "name": "20. Zorro",
+        "rating": "8.2",
+        "description": "Don Diego de la Vega opposes the corrupt tyrants of Spanish California as the masked swordsman, Zorro."
+    },
+    "21": {
+        "name": "21. The Wayward Bus",
+        "rating": "6.5",
+        "description": "Three strangers - a stripper, an alcoholic wife and a travelling salesman - embark on a life-changing journey. As the road presents challenges, each character faces his or her own shortcomings, not knowing where life will lead next."
+    },
+    "22": {
+        "name": "22. The Castle of the Spider's Web",
+        "rating": "8.0",
+        "description": "A war-hardened general, egged on by his ambitious wife, works to fulfill a prophecy that he would become lord of Spider's Web Castle."
+    },
+    "23": {
+        "name": "23. Sweet Smell of Success",
+        "rating": "8.0",
+        "description": "Powerful but unethical Broadway columnist J.J. Hunsecker coerces unscrupulous press agent Sidney Falco into breaking up his sister's romance with a jazz musician."
+    },
+    "24": {
+        "name": "24. Funny Face",
+        "rating": "7.0",
+        "description": "An impromptu fashion shoot at a book store brings about a new fashion model discovery in the shop clerk."
+    },
+    "25": {
+        "name": "25. 3:10 to Yuma",
+        "rating": "7.6",
+        "description": "Broke small-time rancher Dan Evans is hired by the stagecoach line to put big-time captured outlaw leader Ben Wade on the 3:10 train to Yuma but Wade's gang tries to free him."
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. Blade",
+        "rating": "7.1",
+        "description": "A half-vampire, half-mortal man becomes a protector of the mortal race, while slaying evil vampires."
+    },
+    "2": {
+        "name": "2. Sex and the City",
+        "rating": "7.3",
+        "description": "Four female New Yorkers gossip about their sex lives (or lack thereof) and find new ways to deal with being a woman in the late 1990s."
+    },
+    "3": {
+        "name": "3. Charmed",
+        "rating": "7.2",
+        "description": "Three Halliwell sisters discover that they are descendants of a line of good female witches and are destined to fight against the forces of evil, using their combined power of witchcraft known as the \"Power of Three\"."
+    },
+    "4": {
+        "name": "4. The Truman Show",
+        "rating": "8.2",
+        "description": "An insurance salesman is oblivious of the fact that his entire life is a TV show and his family members are mere actors. As he starts noticing things and uncovers the truth, he decides to escape."
+    },
+    "5": {
+        "name": "5. Saving Private Ryan",
+        "rating": "8.6",
+        "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action."
+    },
+    "6": {
+        "name": "6. American History X",
+        "rating": "8.5",
+        "description": "Living a life marked by violence, neo-Nazi Derek finally goes to prison after killing two black youths. Upon his release, Derek vows to change; he hopes to prevent his brother, Danny, who idolizes Derek, from following in his footsteps."
+    },
+    "7": {
+        "name": "7. The Big Lebowski",
+        "rating": "8.1",
+        "description": "Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it."
+    },
+    "8": {
+        "name": "8. The Faculty",
+        "rating": "6.6",
+        "description": "When Casey Connor, Herrington High School's newspaper photographer, witnesses the murder of a nurse and sees her alive again, he decides to investigate the bizarre happenings."
+    },
+    "9": {
+        "name": "9. That '70s Show",
+        "rating": "8.1",
+        "description": "A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin."
+    },
+    "10": {
+        "name": "10. The Parent Trap",
+        "rating": "6.7",
+        "description": "Identical twins Annie and Hallie, separated at birth and each raised by one of their biological parents, discover each other for the first time at summer camp and make a plan to bring their wayward parents back together."
+    },
+    "11": {
+        "name": "11. The King of Queens",
+        "rating": "7.4",
+        "description": "Deliveryman Doug Heffernan has a good life: He has a pretty wife (Carrie), a big television, and friends with which to watch it. Then Carrie's goofy, annoying father Arthur moves in with them."
+    },
+    "12": {
+        "name": "12. Will & Grace",
+        "rating": "7.4",
+        "description": "Gay lawyer Will and straight interior designer Grace share a New York City apartment. Their best friends are gleeful and proud gay Jack and charismatic, filthy-rich, amoral socialite Karen."
+    },
+    "13": {
+        "name": "13. Armageddon",
+        "rating": "6.7",
+        "description": "After discovering that an asteroid the size of Texas will impact Earth in less than a month, NASA recruits a misfit team of deep-core drillers to save the planet."
+    },
+    "14": {
+        "name": "14. Dawson's Creek",
+        "rating": "6.8",
+        "description": "Two childhood best friends, Dawson and Joey, go through different stages of adolescence together. Their friendship is later tested when they both start a relationship with different people."
+    },
+    "15": {
+        "name": "15. Meet Joe Black",
+        "rating": "7.2",
+        "description": "Death, who takes the form of a young man killed in an accident, asks a media mogul to act as his guide to teach him about life on Earth and, in the process, he falls in love with the mogul's daughter."
+    },
+    "16": {
+        "name": "16. Two Guys, a Girl and a Pizza Place",
+        "rating": "7.4",
+        "description": "Three twenty-somethings share a Boston apartment and hang around (and work) at a pizza place."
+    },
+    "17": {
+        "name": "17. Kaub\u00f4i bibappu",
+        "rating": "8.9",
+        "description": "The futuristic misadventures and tragedies of an easygoing bounty hunter and his partners."
+    },
+    "18": {
+        "name": "18. Wild Things",
+        "rating": "6.6",
+        "description": "A police detective uncovers a conspiracy behind a case involving a high-school guidance counselor when accusations of rape are made against him by two female students."
+    },
+    "19": {
+        "name": "19. Lock, Stock and Two Smoking Barrels",
+        "rating": "8.1",
+        "description": "Eddy persuades his three pals to pool money for a vital poker game against a powerful local mobster, Hatchet Harry. Eddy loses, after which Harry gives him a week to pay back 500,000 pounds."
+    },
+    "20": {
+        "name": "20. Dark City",
+        "rating": "7.6",
+        "description": "A man struggles with memories of his past, which include a wife he cannot remember and a nightmarish world no one else ever seems to wake up from."
+    },
+    "21": {
+        "name": "21. The Waterboy",
+        "rating": "6.2",
+        "description": "A waterboy for a college football team discovers he has a unique tackling ability and becomes a member of the team."
+    },
+    "22": {
+        "name": "22. Deep Impact",
+        "rating": "6.2",
+        "description": "A comet is discovered to be on a collision course with Earth. As doomsday nears, the human race prepares for the worst."
+    },
+    "23": {
+        "name": "23. A Bug's Life",
+        "rating": "7.2",
+        "description": "A misfit ant, looking for \"warriors\" to save his colony from greedy grasshoppers, recruits a group of bugs that turn out to be an inept circus troupe."
+    },
+    "24": {
+        "name": "24. Enemy of the State",
+        "rating": "7.3",
+        "description": "A lawyer becomes targeted by a corrupt politician and his N.S.A. goons when he accidentally receives key evidence to a politically motivated crime."
+    },
+    "25": {
+        "name": "25. Practical Magic",
+        "rating": "6.3",
+        "description": "Two witch sisters, raised by their eccentric aunts in a small town, face closed-minded prejudice and a curse which threatens to prevent them ever finding lasting love."
+    }
+}

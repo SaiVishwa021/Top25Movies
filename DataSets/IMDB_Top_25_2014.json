@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. True Detective",
+        "rating": "8.9",
+        "description": "Anthology series in which police investigations unearth the personal and professional secrets of those involved, both within and outside the law."
+    },
+    "2": {
+        "name": "2. Fargo",
+        "rating": "8.9",
+        "description": "Various chronicles of deception, intrigue, and murder in and around frozen Minnesota. All of these tales mysteriously lead back one way or another to Fargo, North Dakota."
+    },
+    "3": {
+        "name": "3. Outlander",
+        "rating": "8.4",
+        "description": "Claire Beauchamp Randall, a nurse in World War II, mysteriously goes back in time to Scotland in 1743. There, she meets a dashing Highland warrior and gets drawn into an epic rebellion."
+    },
+    "4": {
+        "name": "4. Interstellar",
+        "rating": "8.7",
+        "description": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans."
+    },
+    "5": {
+        "name": "5. X-Men: Days of Future Past",
+        "rating": "7.9",
+        "description": "The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants."
+    },
+    "6": {
+        "name": "6. The 100",
+        "rating": "7.5",
+        "description": "Set 97 years after a nuclear war destroyed civilization, when a spaceship housing humanity's lone survivors sends 100 juvenile delinquents back to Earth, hoping to repopulate the planet."
+    },
+    "7": {
+        "name": "7. The Flash",
+        "rating": "7.5",
+        "description": "After being struck by lightning, Barry Allen wakes up from his coma to discover he's been given the power of super speed, becoming the Flash, and fighting crime in Central City."
+    },
+    "8": {
+        "name": "8. Grantchester",
+        "rating": "7.9",
+        "description": "A Cambridgeshire clergyman finds himself investigating a series of mysterious wrongdoings in his small village of Grantchester."
+    },
+    "9": {
+        "name": "9. Chicago P.D.",
+        "rating": "8.1",
+        "description": "Follows District 21 of the Chicago Police Department, made up of two different groups: the uniformed cops and the Intelligence Unit."
+    },
+    "10": {
+        "name": "10. Dawn of the Planet of the Apes",
+        "rating": "7.6",
+        "description": "The fragile peace between apes and humans is threatened as mistrust and betrayal threaten to plunge both tribes into a war for dominance over the Earth."
+    },
+    "11": {
+        "name": "11. Black Sails",
+        "rating": "8.2",
+        "description": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel \"Treasure Island.\""
+    },
+    "12": {
+        "name": "12. BoJack Horseman",
+        "rating": "8.8",
+        "description": "BoJack Horseman was the star of the hit television show \"Horsin' Around\" in the '80s and '90s, but now he's washed up, living in Hollywood, complaining about everything, and wearing colorful sweaters."
+    },
+    "13": {
+        "name": "13. The Leftovers",
+        "rating": "8.3",
+        "description": "Three years after the disappearance of 2% of the global human population, a group of people in a small New York community try to continue their lives while coping with the tragedy of the unexplained nature of the event."
+    },
+    "14": {
+        "name": "14. Gone Girl",
+        "rating": "8.1",
+        "description": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent."
+    },
+    "15": {
+        "name": "15. Gotham",
+        "rating": "7.8",
+        "description": "The story behind Detective James Gordon's rise to prominence in Gotham City in the years before Batman's arrival."
+    },
+    "16": {
+        "name": "16. Kingsman: The Secret Service",
+        "rating": "7.7",
+        "description": "A spy organisation recruits a promising street kid into the agency's training program, while a global threat emerges from a twisted tech genius."
+    },
+    "17": {
+        "name": "17. John Wick",
+        "rating": "7.4",
+        "description": "An ex-hitman comes out of retirement to track down the gangsters who killed his dog and stole his car."
+    },
+    "18": {
+        "name": "18. The Strain",
+        "rating": "7.3",
+        "description": "A mysterious viral outbreak with hallmarks of an ancient and evil strain of vampirism ravages the city of New York."
+    },
+    "19": {
+        "name": "19. Silicon Valley",
+        "rating": "8.5",
+        "description": "Follows the struggle of Richard Hendricks, a Silicon Valley engineer trying to build his own company called Pied Piper."
+    },
+    "20": {
+        "name": "20. Whiplash",
+        "rating": "8.5",
+        "description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential."
+    },
+    "21": {
+        "name": "21. Guardians of the Galaxy",
+        "rating": "8.0",
+        "description": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe."
+    },
+    "22": {
+        "name": "22. The Guest",
+        "rating": "6.7",
+        "description": "A soldier introduces himself to the Peterson family, claiming to be a friend of their son who died in action. After the young man is welcomed into their home, a series of accidental deaths seem to be connected to his presence."
+    },
+    "23": {
+        "name": "23. Bosch",
+        "rating": "8.5",
+        "description": "An L.A.P.D. homicide detective works to solve the murder of a 13-year-old boy while standing trial in federal court for the murder of a serial killer."
+    },
+    "24": {
+        "name": "24. The Equalizer",
+        "rating": "7.2",
+        "description": "A man who believes he has put his mysterious past behind him cannot stand idly by when he meets a young girl under the control of ultra-violent Russian gangsters."
+    },
+    "25": {
+        "name": "25. Penny Dreadful",
+        "rating": "8.2",
+        "description": "Explorer Sir Malcolm Murray, American gunslinger Ethan Chandler, scientist Victor Frankenstein and medium Vanessa Ives unite to combat supernatural threats in Victorian London."
+    }
+}

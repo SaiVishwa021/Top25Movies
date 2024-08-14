@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. Planet of the Apes",
+        "rating": "8.0",
+        "description": "An astronaut crew crash-lands on a planet where highly intelligent non-human ape species are dominant and humans are enslaved."
+    },
+    "2": {
+        "name": "2. 2001: A Space Odyssey",
+        "rating": "8.3",
+        "description": "After uncovering a mysterious artifact buried beneath the Lunar surface, a spacecraft is sent to Jupiter to find its origins: a spacecraft manned by two men and the supercomputer HAL 9000."
+    },
+    "3": {
+        "name": "3. Hawaii Five-O",
+        "rating": "7.4",
+        "description": "Follows the investigations of Hawaii Five-0; an elite branch of the Hawaii State Police, and answerable only to the governor, and headed by the stalwart, Steve McGarrett."
+    },
+    "4": {
+        "name": "4. C'era Una Volta Il West",
+        "rating": "8.5",
+        "description": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad."
+    },
+    "5": {
+        "name": "5. Rosemary's Baby",
+        "rating": "8.0",
+        "description": "A young couple trying for a baby moves into an aging, ornate apartment building on Central Park West, where they find themselves surrounded by peculiar neighbors."
+    },
+    "6": {
+        "name": "6. Adam-12",
+        "rating": "7.7",
+        "description": "Two regular police officers patrol Los Angeles."
+    },
+    "7": {
+        "name": "7. Barbarella",
+        "rating": "5.9",
+        "description": "In the 41st century, an astronaut partakes in sexy misadventures while seeking to stop an evil scientist who threatens to unleash a powerful weapon upon the galaxy."
+    },
+    "8": {
+        "name": "8. Chitty Chitty Bang Bang",
+        "rating": "6.9",
+        "description": "A down-on-his-luck inventor turns a broken-down Grand Prix car into a fancy vehicle for his children, and then they go off on a magical fantasy adventure to save their grandfather in a far-off land."
+    },
+    "9": {
+        "name": "9. Romeo and Juliet",
+        "rating": "7.6",
+        "description": "When two young members of feuding families meet, forbidden love ensues."
+    },
+    "10": {
+        "name": "10. Hang 'Em High",
+        "rating": "7.0",
+        "description": "When an innocent man barely survives a lynching, he returns as a lawman determined to bring the vigilantes to justice."
+    },
+    "11": {
+        "name": "11. Night of the Living Dead",
+        "rating": "7.8",
+        "description": "A ragtag group of Pennsylvanians barricade themselves in an old farmhouse to remain safe from a horde of flesh-eating ghouls that are ravaging the Northeast of the United States."
+    },
+    "12": {
+        "name": "12. Bullitt",
+        "rating": "7.4",
+        "description": "A nonconformist San Francisco cop is determined to find the underworld kingpin who killed the witness under his protection."
+    },
+    "13": {
+        "name": "13. Hot Millions",
+        "rating": "6.8",
+        "description": "Paroled London fraudster Marcus Pendleton poses as a computer specialist in order to work for an insurance company that entirely relies on its corporate server."
+    },
+    "14": {
+        "name": "14. The Thomas Crown Affair",
+        "rating": "6.9",
+        "description": "A debonair, adventuresome bank executive believes he has pulled off the perfect multi-million dollar heist, only to match wits with a sexy insurance investigator who will do anything to get her man."
+    },
+    "15": {
+        "name": "15. Oliver!",
+        "rating": "7.4",
+        "description": "After being sold to the mortician Sowerberry, young orphan Oliver Twist runs away and meets a group of boys trained to be pickpockets by their elderly mentor Fagin in 1830s London in this musical based on Charles Dickens' Oliver Twist."
+    },
+    "16": {
+        "name": "16. One Life to Live",
+        "rating": "6.9",
+        "description": "One Life to Live centres takes place in the fictional town of Llanview, PA.around the wealthy Lord family, and the middle-class Woleks and Rileys."
+    },
+    "17": {
+        "name": "17. The Champions",
+        "rating": "7.5",
+        "description": "After a plane carrying three Agents crashes in the Himalayas, they are rescued by an advanced civilisation secretly living in Tibet who grant them enhanced versions of the ordinary five senses, and intellectual and physical abilities."
+    },
+    "18": {
+        "name": "18. Funny Girl",
+        "rating": "7.4",
+        "description": "The life of Fanny Brice, famed comedienne and entertainer of the early 1900s. We see her rise to fame as a Ziegfeld girl, subsequent career, and her personal life, particularly her relationship with Nick Arnstein."
+    },
+    "19": {
+        "name": "19. The Lion in Winter",
+        "rating": "7.9",
+        "description": "1183 A.D.: King Henry II's three sons all want to inherit the throne, but he won't commit to a choice. When he allows his imprisoned wife Eleanor of Aquitaine out for a Christmas visit, they all variously plot to force him into a decision."
+    },
+    "20": {
+        "name": "20. Where Eagles Dare",
+        "rating": "7.6",
+        "description": "Allied agents stage a daring raid on a castle where the Nazis are holding American brigadier general George Carnaby prisoner, but that's not all that's really going on."
+    },
+    "21": {
+        "name": "21. Yours, Mine and Ours",
+        "rating": "7.1",
+        "description": "A widower with ten children falls for a widow with eight, and they must decide about forming a huge, unconventional family."
+    },
+    "22": {
+        "name": "22. The Mod Squad",
+        "rating": "7.0",
+        "description": "A trio of reformed juvenile delinquents work as undercover cops."
+    },
+    "23": {
+        "name": "23. Dad's Army",
+        "rating": "8.1",
+        "description": "A ragtag group of Home Guard volunteers prepare for an imminent German invasion during World War II."
+    },
+    "24": {
+        "name": "24. Mister Rogers' Neighborhood",
+        "rating": "8.7",
+        "description": "Fred Rogers explores various topics for young viewers through presentations and music, both in his world and in the Neighborhood of Make-Believe."
+    },
+    "25": {
+        "name": "25. Candy",
+        "rating": "5.1",
+        "description": "Candy Christian, an innocent high-schooler, encounters numerous colorful characters and humorous sexual situations while attempting to find meaning in life."
+    }
+}

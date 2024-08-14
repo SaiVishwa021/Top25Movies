@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. Fast Times at Ridgemont High",
+        "rating": "7.1",
+        "description": "A group of Southern California high school students are enjoying their most important subjects: sex, drugs and rock n' roll."
+    },
+    "2": {
+        "name": "2. Cheers",
+        "rating": "8.0",
+        "description": "The regulars of the Boston bar \"Cheers\" share their experiences and lives with each other while drinking or working at the bar where everybody knows your name."
+    },
+    "3": {
+        "name": "3. The Thing",
+        "rating": "8.2",
+        "description": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims."
+    },
+    "4": {
+        "name": "4. Blade Runner",
+        "rating": "8.1",
+        "description": "A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator."
+    },
+    "5": {
+        "name": "5. Evil Under the Sun",
+        "rating": "7.0",
+        "description": "Agatha Christie's Belgian sleuth, Hercule Poirot, solves the murder of an actress at a Balkan resort."
+    },
+    "6": {
+        "name": "6. E.T. The Extra-Terrestrial",
+        "rating": "7.9",
+        "description": "A troubled child summons the courage to help a friendly alien escape from Earth and return to his home planet."
+    },
+    "7": {
+        "name": "7. Victor/Victoria",
+        "rating": "7.6",
+        "description": "A struggling female soprano in 1934 Paris finally finds work after posing as a female impersonator, but it complicates her personal life when a visiting Chicago gangster finds himself inexplicably attracted to the seemingly male performer."
+    },
+    "8": {
+        "name": "8. Poltergeist",
+        "rating": "7.3",
+        "description": "A family's home is haunted by a host of demonic ghosts."
+    },
+    "9": {
+        "name": "9. Newhart",
+        "rating": "7.8",
+        "description": "The misadventures of an author-turned-innkeeper and his friends in rural Vermont."
+    },
+    "10": {
+        "name": "10. Conan the Barbarian",
+        "rating": "6.9",
+        "description": "A powerful warrior seeks to avenge the genocide of his people and the murder of his parents at the hands of a snake cult."
+    },
+    "11": {
+        "name": "11. First Blood",
+        "rating": "7.7",
+        "description": "A veteran Green Beret is forced by a cruel Sheriff and his deputies to flee into the mountains and wage an escalating one-man war against his pursuers."
+    },
+    "12": {
+        "name": "12. Annie",
+        "rating": "6.6",
+        "description": "A spunky young orphan is taken in by a rich eccentric, much to the chagrin of the cantankerous woman who runs the orphanage."
+    },
+    "13": {
+        "name": "13. Family Ties",
+        "rating": "7.3",
+        "description": "Chronicles liberal ex-hippies Steven and Elyse Keaton, their conservative son Alex, daughters Mallory and Jennifer, and later, youngest child Andrew."
+    },
+    "14": {
+        "name": "14. Star Trek II: The Wrath of Khan",
+        "rating": "7.7",
+        "description": "With the assistance of the Enterprise crew, Admiral Kirk must stop an old nemesis, Khan Noonien Singh, from using the life-generating Genesis Device as the ultimate weapon."
+    },
+    "15": {
+        "name": "15. Tron",
+        "rating": "6.7",
+        "description": "A computer hacker is abducted into the digital world and forced to participate in gladiatorial games where his only chance of escape is with the help of a heroic security program."
+    },
+    "16": {
+        "name": "16. An Officer and a Gentleman",
+        "rating": "7.1",
+        "description": "A young man must complete his work at a Navy Officer Candidate School to become an aviator, with the help of a tough Gunnery Sergeant and his new girlfriend."
+    },
+    "17": {
+        "name": "17. Knight Rider",
+        "rating": "6.9",
+        "description": "A lone crimefighter battles the forces of evil with the help of a virtually indestructible and artificially intelligent supercar."
+    },
+    "18": {
+        "name": "18. Grease 2",
+        "rating": "4.5",
+        "description": "A British student at a 1960s American high school must prove himself to the leader of a girls' gang whose members can only date greasers."
+    },
+    "19": {
+        "name": "19. 48 Hrs.",
+        "rating": "6.9",
+        "description": "A hard-nosed cop reluctantly teams up with a wise-cracking criminal temporarily paroled to him in order to track down a killer."
+    },
+    "20": {
+        "name": "20. 'Allo 'Allo!",
+        "rating": "8.4",
+        "description": "In France during World War II, Ren\u00e9 Artois runs a small caf\u00e9 where Resistance fighters, Gestapo men, German Army officers and escaped Allied POWs interact daily, ignorant of one another's true identity or presence, exasperating Ren\u00e9."
+    },
+    "21": {
+        "name": "21. Sophie's Choice",
+        "rating": "7.5",
+        "description": "Sophie is the survivor of Nazi concentration camps, who has found a reason to live with Nathan, a sparkling if unsteady American Jew obsessed with the Holocaust."
+    },
+    "22": {
+        "name": "22. St. Elsewhere",
+        "rating": "8.0",
+        "description": "The lives and work of the staff of St. Eligius Hospital, an old and disrespected Boston teaching hospital."
+    },
+    "23": {
+        "name": "23. Tootsie",
+        "rating": "7.4",
+        "description": "Michael Dorsey, an unsuccessful actor, disguises himself as a woman in order to get a role on a trashy hospital soap."
+    },
+    "24": {
+        "name": "24. The Best Little Whorehouse in Texas",
+        "rating": "6.1",
+        "description": "A town's Sheriff and regular patron of a historical whorehouse fights to keep it running when a television reporter targets it as the Devil's playhouse."
+    },
+    "25": {
+        "name": "25. The Sword and the Sorcerer",
+        "rating": "5.5",
+        "description": "A mercenary with a three-bladed sword rediscovers his royal heritage's dangerous future when he is recruited to help a princess foil the designs of a brutal tyrant and a powerful sorcerer in conquering a land."
+    }
+}

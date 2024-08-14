@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. One Piece",
+        "rating": "9.0",
+        "description": "Monkey D. Luffy sets off on an adventure with his pirate crew in hopes of finding the greatest treasure ever, known as the \"One Piece.\""
+    },
+    "2": {
+        "name": "2. The Sopranos",
+        "rating": "9.2",
+        "description": "New Jersey mob boss Tony Soprano deals with personal and professional issues in his home and business life that affect his mental state, leading him to seek professional psychiatric counseling."
+    },
+    "3": {
+        "name": "3. Law & Order: Special Victims Unit",
+        "rating": "8.1",
+        "description": "Follows the New York City Police Department's (NYPD) Special Victims Unit (SVU), a specially trained squad of detectives who investigates sex crimes including rape, child sexual abuse, human trafficking and domestic violence."
+    },
+    "4": {
+        "name": "4. Futurama",
+        "rating": "8.5",
+        "description": "Philip J. Fry, a pizza delivery boy, is accidentally frozen in 1999 and thawed out on New Year's Eve 2999."
+    },
+    "5": {
+        "name": "5. Family Guy",
+        "rating": "8.1",
+        "description": "In a wacky Rhode Island town, a dysfunctional family strives to cope with everyday life as they are thrown from one crazy scenario to another."
+    },
+    "6": {
+        "name": "6. Fight Club",
+        "rating": "8.8",
+        "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more."
+    },
+    "7": {
+        "name": "7. The Sixth Sense",
+        "rating": "8.2",
+        "description": "Malcolm Crowe, a child psychologist, starts treating a young boy, Cole, who encounters dead people and convinces him to help them. In turn, Cole helps Malcolm reconcile with his estranged wife."
+    },
+    "8": {
+        "name": "8. The West Wing",
+        "rating": "8.9",
+        "description": "Inside the lives of staffers in the West Wing of the White House."
+    },
+    "9": {
+        "name": "9. SpongeBob SquarePants",
+        "rating": "8.2",
+        "description": "The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple."
+    },
+    "10": {
+        "name": "10. The Matrix",
+        "rating": "8.7",
+        "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence."
+    },
+    "11": {
+        "name": "11. The Mummy",
+        "rating": "7.1",
+        "description": "At an archaeological dig in the ancient city of Hamunaptra, an American serving in the French Foreign Legion accidentally awakens a mummy who begins to wreak havoc as he searches for the reincarnation of his long-lost love."
+    },
+    "12": {
+        "name": "12. American Beauty",
+        "rating": "8.3",
+        "description": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend."
+    },
+    "13": {
+        "name": "13. 10 Things I Hate About You",
+        "rating": "7.3",
+        "description": "A high-school boy, Cameron, cannot date Bianca until her anti-social older sister, Kat, has a boyfriend. So, Cameron pays a mysterious boy, Patrick, to charm Kat."
+    },
+    "14": {
+        "name": "14. The Green Mile",
+        "rating": "8.6",
+        "description": "A tale set on death row, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the lead guard, Paul Edgecombe, recognizes John's gift, he tries to help stave off the condemned man's execution."
+    },
+    "15": {
+        "name": "15. House on Haunted Hill",
+        "rating": "5.6",
+        "description": "An amusement park mogul offers a group of diverse people $1,000,000 to spend the night in a haunted house with a horrifying past."
+    },
+    "16": {
+        "name": "16. American Pie",
+        "rating": "7.0",
+        "description": "Four teenage boys enter a pact to lose their virginity by prom night."
+    },
+    "17": {
+        "name": "17. Eyes Wide Shut",
+        "rating": "7.5",
+        "description": "A Manhattan doctor embarks on a bizarre, night-long odyssey after his wife's admission of unfulfilled longing."
+    },
+    "18": {
+        "name": "18. The Talented Mr. Ripley",
+        "rating": "7.4",
+        "description": "In late 1950s New York, a young underachiever named Tom Ripley is sent to Italy to retrieve Dickie Greenleaf, a rich and spoiled millionaire playboy. But when the errand fails, Ripley takes extreme measures."
+    },
+    "19": {
+        "name": "19. Office Space",
+        "rating": "7.6",
+        "description": "Three company workers who hate their jobs decide to rebel against their greedy boss."
+    },
+    "20": {
+        "name": "20. Sea of Death",
+        "rating": "5.9",
+        "description": "Searching for a cure to Alzheimer's disease, a group of scientists on an isolated research facility become the prey, as a trio of intelligent sharks fight back."
+    },
+    "21": {
+        "name": "21. Star Wars: Episode I - The Phantom Menace",
+        "rating": "6.5",
+        "description": "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their original glory."
+    },
+    "22": {
+        "name": "22. Angel",
+        "rating": "7.9",
+        "description": "The vampire Angel, cursed with a soul, moves to Los Angeles and aids people with supernatural-related problems while questing for his own redemption."
+    },
+    "23": {
+        "name": "23. Notting Hill",
+        "rating": "7.2",
+        "description": "A set of circumstances makes Anna Scott, a famous actress, fall in love with William Thacker, owner of a bookstore in Notting Hill. But the paparazzi's fascination with her complicates their bond."
+    },
+    "24": {
+        "name": "24. Girl, Interrupted",
+        "rating": "7.3",
+        "description": "A directionless teenager, Susanna, is rushed to Claymoore, a mental institution, after a supposed suicide attempt. There, she befriends a group of troubled women who deeply influence her life."
+    },
+    "25": {
+        "name": "25. Freaks and Geeks",
+        "rating": "8.8",
+        "description": "A high school mathlete starts hanging out with a group of burnouts while her younger brother navigates his freshman year."
+    }
+}

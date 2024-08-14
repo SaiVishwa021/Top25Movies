@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. Attack on Titan",
+        "rating": "9.1",
+        "description": "After his hometown is destroyed, young Eren Jaeger vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction."
+    },
+    "2": {
+        "name": "2. Vikings",
+        "rating": "8.5",
+        "description": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean."
+    },
+    "3": {
+        "name": "3. Peaky Blinders",
+        "rating": "8.8",
+        "description": "A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby."
+    },
+    "4": {
+        "name": "4. Banshee",
+        "rating": "8.4",
+        "description": "An ex-con assumes the identity of a murdered sheriff in the small town of Banshee, Pennsylvania, where he has some unfinished business."
+    },
+    "5": {
+        "name": "5. Rick and Morty",
+        "rating": "9.1",
+        "description": "The fractured domestic lives of a nihilistic mad scientist and his anxious grandson are further complicated by their inter-dimensional misadventures."
+    },
+    "6": {
+        "name": "6. The Blacklist",
+        "rating": "7.9",
+        "description": "A new FBI profiler, Elizabeth Keen, has her entire life uprooted when a mysterious criminal, Raymond Reddington, who has eluded capture for decades, turns himself in and insists on speaking only to her."
+    },
+    "7": {
+        "name": "7. Brooklyn Nine-Nine",
+        "rating": "8.4",
+        "description": "Comedy series following the exploits of Det. Jake Peralta and his diverse, lovable colleagues as they police the NYPD's 99th Precinct."
+    },
+    "8": {
+        "name": "8. The Wolverine",
+        "rating": "6.7",
+        "description": "Wolverine comes to Japan to meet an old friend whose life he saved years ago, and gets embroiled in a conspiracy involving yakuza and mutants."
+    },
+    "9": {
+        "name": "9. The Wolf of Wall Street",
+        "rating": "8.2",
+        "description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government."
+    },
+    "10": {
+        "name": "10. Orange Is the New Black",
+        "rating": "8.0",
+        "description": "Convicted of a decade-old crime of transporting drug money, ordinarily law-abiding Piper Chapman is sentenced to 18 months behind bars and quickly discovers the realities of life-changing prison time."
+    },
+    "11": {
+        "name": "11. The Americans",
+        "rating": "8.4",
+        "description": "At the height of the Cold War, two Russian agents pose as the average American couple, complete with family."
+    },
+    "12": {
+        "name": "12. House of Cards",
+        "rating": "8.6",
+        "description": "A Congressman works with his equally conniving wife to exact revenge on the people who betrayed him."
+    },
+    "13": {
+        "name": "13. Prisoners",
+        "rating": "8.2",
+        "description": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts."
+    },
+    "14": {
+        "name": "14. Hannibal",
+        "rating": "8.5",
+        "description": "Explores the early relationship between renowned psychiatrist Hannibal Lecter and a young FBI criminal profiler who is haunted by his ability to empathize with serial killers."
+    },
+    "15": {
+        "name": "15. Grown Ups 2",
+        "rating": "5.4",
+        "description": "After moving his family back to his hometown to be with his friends and their kids, Lenny finds out that between old bullies, new bullies, schizo bus drivers, drunk cops on skis, and four hundred costumed party crashers sometimes crazy follows you."
+    },
+    "16": {
+        "name": "16. The Originals",
+        "rating": "8.3",
+        "description": "A family of power-hungry thousand-year-old vampires look to take back the city that they built and dominate all those who have done them wrong."
+    },
+    "17": {
+        "name": "17. Shetland",
+        "rating": "8.3",
+        "description": "A local police team investigate crimes within the close knit island community of Shetland."
+    },
+    "18": {
+        "name": "18. Agents of S.H.I.E.L.D.",
+        "rating": "7.5",
+        "description": "The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division."
+    },
+    "19": {
+        "name": "19. World War Z",
+        "rating": "7.0",
+        "description": "Former United Nations employee Gerry Lane traverses the world in a race against time to stop a zombie pandemic that is toppling armies and governments and threatens to destroy humanity itself."
+    },
+    "20": {
+        "name": "20. The Conjuring",
+        "rating": "7.5",
+        "description": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse."
+    },
+    "21": {
+        "name": "21. Bates Motel",
+        "rating": "8.1",
+        "description": "A contemporary prequel to Psycho, giving a portrayal of how Norman Bates' psyche unravels through his teenage years, and how deeply intricate his relationship with his mother, Norma, truly is."
+    },
+    "22": {
+        "name": "22. Nymphomaniac: Vol. I",
+        "rating": "6.9",
+        "description": "A self-diagnosed nymphomaniac recounts her erotic experiences to the man who saved her after a beating."
+    },
+    "23": {
+        "name": "23. Mom",
+        "rating": "7.4",
+        "description": "A newly sober single mom tries to pull her life together in Napa Valley while dealing with her wayward mother."
+    },
+    "24": {
+        "name": "24. About Time",
+        "rating": "7.8",
+        "description": "At the age of 21, Tim discovers he can travel in time and change what happens and has happened in his own life. His decision to make his world a better place by getting a girlfriend turns out not to be as easy as you might think."
+    },
+    "25": {
+        "name": "25. The Fall",
+        "rating": "8.1",
+        "description": "A seemingly cold but very passionate policewoman goes head to head with a father, who is in fact a serial killer, in this procedural out of Belfast. The only thing they share is their common complexity."
+    }
+}

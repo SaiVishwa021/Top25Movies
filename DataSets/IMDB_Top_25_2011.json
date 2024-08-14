@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. Game of Thrones",
+        "rating": "9.2",
+        "description": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia."
+    },
+    "2": {
+        "name": "2. Suits",
+        "rating": "8.4",
+        "description": "On the run from a drug deal gone bad, brilliant college dropout Mike Ross finds himself working with Harvey Specter, one of New York City's best lawyers."
+    },
+    "3": {
+        "name": "3. Shameless",
+        "rating": "8.5",
+        "description": "A scrappy, feisty, fiercely loyal Chicago family makes no apologies."
+    },
+    "4": {
+        "name": "4. Black Mirror",
+        "rating": "8.7",
+        "description": "Featuring stand-alone dramas -- sharp, suspenseful, satirical tales that explore techno-paranoia -- \"Black Mirror\" is a contemporary reworking of \"The Twilight Zone\" with stories that tap into the collective unease about the modern world."
+    },
+    "5": {
+        "name": "5. American Horror Story",
+        "rating": "8.0",
+        "description": "An anthology series centering on different characters and locations, showcasing different aspects of horror."
+    },
+    "6": {
+        "name": "6. X: First Class",
+        "rating": "7.7",
+        "description": "In the 1960s, superpowered humans Charles Xavier and Erik Lensherr work together to find others like them, but Erik's vengeful pursuit of an ambitious mutant who ruined his life causes a schism to divide them."
+    },
+    "7": {
+        "name": "7. Person of Interest",
+        "rating": "8.5",
+        "description": "An ex-CIA agent and a wealthy programmer save lives via a surveillance AI that sends them the identities of civilians involved in impending crimes. However, the details of the crimes, including the civilians' roles, are left a mystery."
+    },
+    "8": {
+        "name": "8. Death in Paradise",
+        "rating": "7.8",
+        "description": "Cultures collide when a British Detective Inspector is transferred from England to the Caribbean island of Saint Marie to head the island's police department."
+    },
+    "9": {
+        "name": "9. Rise of the Planet of the Apes",
+        "rating": "7.6",
+        "description": "A substance designed to help the brain repair itself gives advanced intelligence to a chimpanzee who leads an ape uprising."
+    },
+    "10": {
+        "name": "10. Once Upon a Time",
+        "rating": "7.7",
+        "description": "A young woman with a troubled past is drawn to a small town in Maine where fairy tales are to be believed."
+    },
+    "11": {
+        "name": "11. New Girl",
+        "rating": "7.8",
+        "description": "After a bad break-up, Jess, an offbeat young woman, moves into an apartment loft with three single men. Although they find her behavior very unusual, the men support her - most of the time."
+    },
+    "12": {
+        "name": "12. Vera",
+        "rating": "8.2",
+        "description": "With her caustic wit and singular charm, DCI Vera Stanhope leads her team as they face a series of captivating murder mysteries set against the breathtaking Northumberland landscape."
+    },
+    "13": {
+        "name": "13. The Help",
+        "rating": "8.1",
+        "description": "An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis."
+    },
+    "14": {
+        "name": "14. Green Lantern",
+        "rating": "5.5",
+        "description": "Reckless test pilot Hal Jordan is granted an alien ring that bestows him with otherworldly powers that inducts him into an intergalactic police force, the Green Lantern Corps."
+    },
+    "15": {
+        "name": "15. Bob's Burgers",
+        "rating": "8.2",
+        "description": "Bob Belcher runs a struggling burger shop with his wife and three children."
+    },
+    "16": {
+        "name": "16. Grimm",
+        "rating": "7.9",
+        "description": "A homicide detective discovers he is a descendant of hunters who fight supernatural forces."
+    },
+    "17": {
+        "name": "17. Crazy, Stupid, Love.",
+        "rating": "7.4",
+        "description": "A middle-aged husband's life changes dramatically when his wife asks him for a divorce. He seeks to rediscover his manhood with the help of a newfound friend, Jacob, learning to pick up girls at bars."
+    },
+    "18": {
+        "name": "18. Homeland",
+        "rating": "8.3",
+        "description": "A bipolar CIA operative becomes convinced a prisoner of war has been turned by al-Qaeda and is planning to carry out a terrorist attack on American soil."
+    },
+    "19": {
+        "name": "19. Teen Wolf",
+        "rating": "7.7",
+        "description": "An average high school student and his best friend get caught up in some trouble causing him to receive a werewolf bite. As a result they find themselves in the middle of all sorts of dramas in Beacon Hills."
+    },
+    "20": {
+        "name": "20. Hotel Desire",
+        "rating": "5.6",
+        "description": "A young single mother drops her son of at the bus stop to visit his dad in Paris. After being late for work, she almost gets fired. At the end of her duties she gets into a tricky situation which she handles, with the advice her colleague gave her."
+    },
+    "21": {
+        "name": "21. HUNTER\u00d7HUNTER",
+        "rating": "9.0",
+        "description": "Gon Freecss aspires to become a Hunter, an exceptional being capable of greatness. With his friends and his potential, he seeks out his father, who left him when he was younger."
+    },
+    "22": {
+        "name": "22. Captain America: The First Avenger",
+        "rating": "6.9",
+        "description": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a \"Super-Soldier serum\". But being Captain America comes at a price as he attempts to take down a warmonger and a terrorist organization."
+    },
+    "23": {
+        "name": "23. The Killing",
+        "rating": "8.3",
+        "description": "A police investigation, the saga of a grieving family, and a Seattle mayoral campaign all interlock after the body of 17-year-old Rosie Larsen is found in the trunk of a submerged car."
+    },
+    "24": {
+        "name": "24. Harry Potter and the Deathly Hallows: Part 2",
+        "rating": "8.1",
+        "description": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts."
+    },
+    "25": {
+        "name": "25. Top Boy",
+        "rating": "8.4",
+        "description": "Two London drug dealers ply their lucrative trade at a public housing estate in East London."
+    }
+}

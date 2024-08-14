@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. The Big Bang Theory",
+        "rating": "8.1",
+        "description": "Aspiring film actress Penny moves into a Pasadena apartment across the hall from brilliant, but socially awkward, physicists Sheldon Cooper and Leonard Hofstadter and shows them how little they know about life outside of the lab."
+    },
+    "2": {
+        "name": "2. Gossip Girl",
+        "rating": "7.5",
+        "description": "Privileged teens living on the Upper East Side of New York can hide no secret from the ruthless blogger who is always watching."
+    },
+    "3": {
+        "name": "3. Mad Men",
+        "rating": "8.7",
+        "description": "A drama about one of New York's most prestigious ad agencies at the beginning of the 1960s, focusing on one of the firm's most mysterious but extremely talented ad executives, Donald Draper."
+    },
+    "4": {
+        "name": "4. Heartland",
+        "rating": "8.5",
+        "description": "A multi-generational saga set in Alberta, Canada and centered on a family getting through life together in both happy and trying times."
+    },
+    "5": {
+        "name": "5. No Country for Old Men",
+        "rating": "8.2",
+        "description": "Violence and mayhem ensue after a hunter stumbles upon the aftermath of a drug deal gone wrong and over two million dollars in cash near the Rio Grande."
+    },
+    "6": {
+        "name": "6. Zodiac",
+        "rating": "7.7",
+        "description": "Between 1968 and 1983, a San Francisco cartoonist becomes an amateur detective obsessed with tracking down the Zodiac Killer, an unidentified individual who terrorizes Northern California with a killing spree."
+    },
+    "7": {
+        "name": "7. Hot Fuzz",
+        "rating": "7.8",
+        "description": "An overachieving London police sergeant is transferred to a village where the easygoing officers object to his fervor for regulations, all while a string of grisly murders strikes the town."
+    },
+    "8": {
+        "name": "8. Naruto: Shipp\u00fbden",
+        "rating": "8.7",
+        "description": "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village."
+    },
+    "9": {
+        "name": "9. Chuck",
+        "rating": "8.2",
+        "description": "When a computer geek inadvertently downloads critical government secrets into his brain, both the CIA and the NSA assign an agent to protect him and exploit his newfound skills."
+    },
+    "10": {
+        "name": "10. Ratatouille",
+        "rating": "8.1",
+        "description": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant."
+    },
+    "11": {
+        "name": "11. Transformers",
+        "rating": "7.0",
+        "description": "An ancient struggle between two Cybertronian races, the heroic Autobots and the evil Decepticons, comes to Earth, with a clue to the ultimate power held by a teenager."
+    },
+    "12": {
+        "name": "12. Juno",
+        "rating": "7.4",
+        "description": "Faced with an unplanned pregnancy, an offbeat young woman makes a selfless decision regarding the unborn child."
+    },
+    "13": {
+        "name": "13. Fracture",
+        "rating": "7.2",
+        "description": "After shooting his wife, Ted confesses his crime and asks the court to move his case to trial. He represents himself against Willy, a successful lawyer. But there's more to the case than meets the eye."
+    },
+    "14": {
+        "name": "14. The Tudors",
+        "rating": "8.1",
+        "description": "Epic series reveals the scandalous life of a young king whose affairs and obsession with producing a male heir changed marriage, the church, and the world."
+    },
+    "15": {
+        "name": "15. Superbad",
+        "rating": "7.6",
+        "description": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry."
+    },
+    "16": {
+        "name": "16. 4: Rise of the Silver Surfer",
+        "rating": "5.6",
+        "description": "The Fantastic Four learn that they aren't the only super-powered beings in the universe when they square off against the powerful Silver Surfer and the planet-eating Galactus."
+    },
+    "17": {
+        "name": "17. Ghost Rider",
+        "rating": "5.3",
+        "description": "When motorcycle rider Johnny Blaze sells his soul to the Devil to save his father's life, he is transformed into the Ghost Rider, the Devil's own bounty hunter, and is sent to hunt down sinners."
+    },
+    "18": {
+        "name": "18. There Will Be Blood",
+        "rating": "8.2",
+        "description": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business."
+    },
+    "19": {
+        "name": "19. Skins",
+        "rating": "8.2",
+        "description": "The story of a group of British teens who are trying to grow up and find love and happiness despite questionable parenting and teachers who would rather be friends (and lovers) than authority figures."
+    },
+    "20": {
+        "name": "20. Atonement",
+        "rating": "7.8",
+        "description": "Thirteen-year-old fledgling writer Briony Tallis irrevocably changes the course of several lives when she accuses her older sister's lover of a crime he did not commit."
+    },
+    "21": {
+        "name": "21. Stardust",
+        "rating": "7.6",
+        "description": "In a countryside town bordering on a magical land, a young man makes a promise to his beloved that he'll retrieve a fallen star by venturing into the magical realm."
+    },
+    "22": {
+        "name": "22. Georgia Rule",
+        "rating": "5.9",
+        "description": "A troubled young woman is sent to live with her grandmother for the summer, while hiding a secret that could potentially tear her family apart."
+    },
+    "23": {
+        "name": "23. Into the Wild",
+        "rating": "8.1",
+        "description": "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness."
+    },
+    "24": {
+        "name": "24. Disturbia",
+        "rating": "6.8",
+        "description": "When a teenager is placed under house arrest, he succumbs to despair and starts spying on his neighbors, hoping to spice up his life. This, however, leads him to witness a serial killer on the loose."
+    },
+    "25": {
+        "name": "25. Californication",
+        "rating": "8.3",
+        "description": "A writer tries to juggle his career, his relationship with his daughter and his ex-girlfriend, as well as his appetite for beautiful women."
+    }
+}

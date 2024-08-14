@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. Midsomer Murders",
+        "rating": "7.9",
+        "description": "A veteran Detective Chief Inspector and his young Sergeant investigate murders around the regional community of Midsomer County."
+    },
+    "2": {
+        "name": "2. Titanic",
+        "rating": "7.9",
+        "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic."
+    },
+    "3": {
+        "name": "3. South Park",
+        "rating": "8.7",
+        "description": "Follows the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado."
+    },
+    "4": {
+        "name": "4. Buffy the Vampire Slayer",
+        "rating": "8.3",
+        "description": "A young woman, destined to slay vampires, demons and other infernal creatures, deals with her life fighting evil, with the help of her friends."
+    },
+    "5": {
+        "name": "5. Stargate SG-1",
+        "rating": "8.4",
+        "description": "A secret military team, SG-1, is formed to explore other planets through the recently discovered Stargates."
+    },
+    "6": {
+        "name": "6. Good Will Hunting",
+        "rating": "8.3",
+        "description": "Will Hunting, a janitor at MIT, has a gift for mathematics, but needs help from a psychologist to find direction in his life."
+    },
+    "7": {
+        "name": "7. Lolita",
+        "rating": "6.8",
+        "description": "An English professor falls for a minor, and has to face the consequences of his actions."
+    },
+    "8": {
+        "name": "8. Alien Resurrection",
+        "rating": "6.2",
+        "description": "Two centuries after her death, a powerful human/alien hybrid clone of Ellen Ripley aids a crew of space pirates in stopping the aliens from reaching Earth."
+    },
+    "9": {
+        "name": "9. Boogie Nights",
+        "rating": "7.9",
+        "description": "Back when sex was safe, pleasure was a business and business was booming, an idealistic porn producer aspires to elevate his craft to an art when he discovers a hot young talent."
+    },
+    "10": {
+        "name": "10. Kiss the Girls",
+        "rating": "6.6",
+        "description": "Police hunting for a serial kidnapper are helped when a victim manages to escape for the first time."
+    },
+    "11": {
+        "name": "11. Oz",
+        "rating": "8.7",
+        "description": "A series chronicling the daily activities of an unusual prison facility and its criminal inhabitants."
+    },
+    "12": {
+        "name": "12. The Fifth Element",
+        "rating": "7.6",
+        "description": "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay."
+    },
+    "13": {
+        "name": "13. The Game",
+        "rating": "7.7",
+        "description": "After a wealthy San Francisco banker is given an opportunity to participate in a mysterious game, his life is turned upside down as he begins to question if it might really be a concealed conspiracy to destroy him."
+    },
+    "14": {
+        "name": "14. Men in Black",
+        "rating": "7.3",
+        "description": "James, an NYC cop, is hired by Agent K of a secret government agency that monitors extraterrestrial life on Earth. Together, they must recover an item that has been stolen by an intergalactic villain."
+    },
+    "15": {
+        "name": "15. Life Is Beautiful",
+        "rating": "8.6",
+        "description": "When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp."
+    },
+    "16": {
+        "name": "16. Starship Troopers",
+        "rating": "7.3",
+        "description": "Humans, in a fascist militaristic future, wage war with giant alien bugs."
+    },
+    "17": {
+        "name": "17. King of the Hill",
+        "rating": "7.5",
+        "description": "A straight-laced propane salesman in Arlen, Texas tries to deal with the wacky antics of his family and friends, while also trying to keep his son in line."
+    },
+    "18": {
+        "name": "18. Kenp\u00fb Denki Berserk",
+        "rating": "8.7",
+        "description": "Guts, a wandering mercenary, joins the Band of the Hawk after being defeated in a duel by Griffith, the group's leader and founder. Together, they dominate every battle, but something menacing lurks in the shadows."
+    },
+    "19": {
+        "name": "19. The Devil's Advocate",
+        "rating": "7.5",
+        "description": "An exceptionally-adept Florida lawyer is offered a job at a high-end New York City law firm with a high-end boss--the biggest opportunity of his career to date."
+    },
+    "20": {
+        "name": "20. Hercules",
+        "rating": "7.3",
+        "description": "The son of Zeus and Hera is stripped of his immortality as an infant and must become a true hero in order to reclaim it."
+    },
+    "21": {
+        "name": "21. Con Air",
+        "rating": "6.9",
+        "description": "Newly-paroled ex-con and former U.S. Ranger Cameron Poe finds himself trapped in a prisoner-transport plane when the passengers seize control."
+    },
+    "22": {
+        "name": "22. As Good as It Gets",
+        "rating": "7.7",
+        "description": "A single mother and waitress, a misanthropic author, and a gay artist form an unlikely friendship after the artist is assaulted in a robbery."
+    },
+    "23": {
+        "name": "23. Contact",
+        "rating": "7.5",
+        "description": "Dr. Ellie Arroway, after years of searching, finds conclusive radio proof of extraterrestrial intelligence, sending plans for a mysterious machine."
+    },
+    "24": {
+        "name": "24. Pok\u00e9mon: Diamond and Pearl",
+        "rating": "7.5",
+        "description": "Covering the continuing adventures of series protagonist Ash Ketchum and Pikachu, and his best friend Brock, the two meet a new coordinator named Dawn, who travels with them through Sinnoh and enters Pokemon Contests."
+    },
+    "25": {
+        "name": "25. The Lost World: Jurassic Park",
+        "rating": "6.6",
+        "description": "A research team is sent to the Jurassic Park Site B island to study the dinosaurs there, while an InGen team approaches with another agenda."
+    }
+}

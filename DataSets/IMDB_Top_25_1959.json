@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. The Twilight Zone",
+        "rating": "9.1",
+        "description": "Ordinary people find themselves in extraordinarily astounding situations, which they each try to solve in a remarkable manner."
+    },
+    "2": {
+        "name": "2. Bonanza",
+        "rating": "7.3",
+        "description": "The Wild West adventures of Ben Cartwright and his sons as they run and defend their Nevada ranch while helping the surrounding community."
+    },
+    "3": {
+        "name": "3. Suddenly, Last Summer",
+        "rating": "7.5",
+        "description": "A surgeon is assigned the case of a young woman whose aunt wants her lobotomized to cover up a family secret."
+    },
+    "4": {
+        "name": "4. Some Like It Hot",
+        "rating": "8.2",
+        "description": "After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in."
+    },
+    "5": {
+        "name": "5. North by Northwest",
+        "rating": "8.3",
+        "description": "A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies, and falls for a woman whose loyalties he begins to doubt."
+    },
+    "6": {
+        "name": "6. Ben-Hur",
+        "rating": "8.1",
+        "description": "After a Jewish prince is betrayed and sent into slavery by a Roman friend in 1st-century Jerusalem, he regains his freedom and comes back for revenge."
+    },
+    "7": {
+        "name": "7. Sleeping Beauty",
+        "rating": "7.2",
+        "description": "After being snubbed by the royal family, a malevolent fairy places a curse on a princess which only a prince can break, along with the help of three good fairies."
+    },
+    "8": {
+        "name": "8. Rio Bravo",
+        "rating": "8.0",
+        "description": "A small-town sheriff in the American West enlists the help of a disabled man, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy."
+    },
+    "9": {
+        "name": "9. Rawhide",
+        "rating": "7.9",
+        "description": "Gil Favor is trail boss of a continuous cattle drive. He is assisted by Rowdy Yates. The crew runs into characters and adventures along the way."
+    },
+    "10": {
+        "name": "10. Harold and the Purple Crayon",
+        "rating": "7.4",
+        "description": "A little boy takes a walk, using his purple crayon to create everything he encounters along the way."
+    },
+    "11": {
+        "name": "11. Anatomy of a Murder",
+        "rating": "8.0",
+        "description": "An upstate Michigan lawyer defends a soldier who claims he killed an innkeeper due to temporary insanity after the victim raped his wife. What is the truth, and will he win his case?"
+    },
+    "12": {
+        "name": "12. House on Haunted Hill",
+        "rating": "6.7",
+        "description": "A millionaire offers $10,000 to five people who agree to be locked in a large, spooky, rented house overnight with him and his wife."
+    },
+    "13": {
+        "name": "13. The Hangman",
+        "rating": "6.6",
+        "description": "U.S. Marshal Bovard comes to a small border town to identify and arrest a fugitive, but the whole town seems determined to prevent the Marshal from doing his job."
+    },
+    "14": {
+        "name": "14. Journey to the Center of the Earth",
+        "rating": "7.0",
+        "description": "An Edinburgh professor and assorted colleagues follow an explorer's trail down an extinct Icelandic volcano to the earth's center."
+    },
+    "15": {
+        "name": "15. Dennis the Menace",
+        "rating": "7.0",
+        "description": "Television episodes built around the same sorts of incidents found in Hank Ketcham's long-running comic strip."
+    },
+    "16": {
+        "name": "16. Imitation of Life",
+        "rating": "7.8",
+        "description": "An aspiring white actress takes in an African American widow whose mixed-race daughter is desperate to be seen as white."
+    },
+    "17": {
+        "name": "17. On the Beach",
+        "rating": "7.1",
+        "description": "After a global nuclear war, the residents of Australia must come to terms with the fact that all life will be destroyed in a matter of months."
+    },
+    "18": {
+        "name": "18. The 400 Blows",
+        "rating": "8.1",
+        "description": "A young boy, left without attention, delves into a life of petty crime."
+    },
+    "19": {
+        "name": "19. Gidget",
+        "rating": "6.6",
+        "description": "A young girl discovers surfing and love (in that order) during one transitive summer."
+    },
+    "20": {
+        "name": "20. Laramie",
+        "rating": "7.7",
+        "description": "In the 1870s Wyoming Territory, Slim Sherman and his 14-year-old brother Andy try to hang on to their ranch after their father's death."
+    },
+    "21": {
+        "name": "21. Hawaiian Eye",
+        "rating": "7.7",
+        "description": "The cases of Hawaiian Eye Private Investigations and the two handsome, slick, tough-guy detectives who ran the firm, Thomas Jefferson Lopaka, or Tom for short, and Tracy Steele, a Korean War veteran and former city police detective."
+    },
+    "22": {
+        "name": "22. The Untouchables",
+        "rating": "8.0",
+        "description": "Special Agent Eliot Ness and his elite team of incorruptable agents battle organized crime in 1930s Chicago."
+    },
+    "23": {
+        "name": "23. Hiroshima mon amour",
+        "rating": "7.8",
+        "description": "A French actress filming an anti-war film in Hiroshima has an affair with a married Japanese architect as they share their differing perspectives on war."
+    },
+    "24": {
+        "name": "24. King of the Wild Stallions",
+        "rating": "6.0",
+        "description": "A young widow and her son on an isolated ranch find themselves being protected by a wild stallion."
+    },
+    "25": {
+        "name": "25. The Many Loves of Dobie Gillis",
+        "rating": "7.7",
+        "description": "A young man schemes and attempts to get the \"better things in life\" mostly popularity, success, and most importantly, girls."
+    }
+}

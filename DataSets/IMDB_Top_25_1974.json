@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. Little House on the Prairie",
+        "rating": "7.5",
+        "description": "The life and adventures of the Ingalls family in the nineteenth century American Midwest."
+    },
+    "2": {
+        "name": "2. The Godfather: Part II",
+        "rating": "9.0",
+        "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate."
+    },
+    "3": {
+        "name": "3. The Texas Chain Saw Massacre",
+        "rating": "7.4",
+        "description": "Five friends head out to rural Texas to visit the grave of a grandfather. On the way they stumble across what appears to be a deserted house, only to discover something sinister within. Something armed with a chainsaw."
+    },
+    "4": {
+        "name": "4. Blazing Saddles",
+        "rating": "7.7",
+        "description": "In order to ruin a western town and steal their land, a corrupt politician appoints a black sheriff, who promptly becomes his most formidable adversary."
+    },
+    "5": {
+        "name": "5. Young Frankenstein",
+        "rating": "8.0",
+        "description": "An American grandson of the infamous scientist, struggling to prove that his grandfather was not as insane as people believe, is invited to Transylvania, where he discovers the process that reanimates a dead body."
+    },
+    "6": {
+        "name": "6. The Rockford Files",
+        "rating": "8.2",
+        "description": "The cases of an easy-going ex-convict turned private investigator."
+    },
+    "7": {
+        "name": "7. Chinatown",
+        "rating": "8.1",
+        "description": "A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a web of deceit, corruption, and murder."
+    },
+    "8": {
+        "name": "8. The Tamarind Seed",
+        "rating": "6.4",
+        "description": "During a Caribbean vacation, a British civil servant finds herself falling in love with a Russian Agent."
+    },
+    "9": {
+        "name": "9. Happy Days",
+        "rating": "7.4",
+        "description": "In Milwaukee Wisconsin, hardware store owner Howard Cunningham, his wife Marion, and their children Richard and Joanie live through the 1950s with help and guidance from lovable and almost superhuman greaser Fonzie."
+    },
+    "10": {
+        "name": "10. The Conversation",
+        "rating": "7.7",
+        "description": "A paranoid, secretive surveillance expert has a crisis of conscience when he suspects that the couple he is spying on will be murdered."
+    },
+    "11": {
+        "name": "11. Murder on the Orient Express",
+        "rating": "7.2",
+        "description": "In December 1935, when his transcontinental luxury train is stranded by deep snow, detective Hercule Poirot is called on to solve a murder that occurred in his car the night before, with a multitude of suspects."
+    },
+    "12": {
+        "name": "12. The Six Million Dollar Man",
+        "rating": "7.1",
+        "description": "After a severely injured test pilot is rebuilt with nuclear-powered bionic limbs and implants, he serves as an intelligence agent."
+    },
+    "13": {
+        "name": "13. Good Times",
+        "rating": "7.4",
+        "description": "A poor family make the best of things in the Chicago housing projects."
+    },
+    "14": {
+        "name": "14. Barney Miller",
+        "rating": "8.3",
+        "description": "The Captain of the NYPD 12th Precinct and his staff handle the various local troubles and characters that come into the squad room."
+    },
+    "15": {
+        "name": "15. The Towering Inferno",
+        "rating": "7.0",
+        "description": "At the opening party of a colossal, but poorly constructed, office building, a massive fire breaks out that threatens to destroy the tower and everyone in it."
+    },
+    "16": {
+        "name": "16. Flesh Gordon",
+        "rating": "4.8",
+        "description": "Emperor Wang is leader of the planet Porno and sends his mighty sex ray toward Earth, which turns everyone into sex-mad fiends. Only one person can save the Earth, football player Flesh Gordon."
+    },
+    "17": {
+        "name": "17. Death Wish",
+        "rating": "6.9",
+        "description": "A New York City architect becomes a one-man vigilante squad after his wife is murdered by street punks. In self-defense, the vengeful man kills muggers on the mean streets after dark."
+    },
+    "18": {
+        "name": "18. The Man with the Golden Gun",
+        "rating": "6.7",
+        "description": "James Bond is targeted by the world's most expensive assassin, while he attempts to recover sensitive solar cell technology that is being sold to the highest bidder."
+    },
+    "19": {
+        "name": "19. The Taking of Pelham One Two Three",
+        "rating": "7.6",
+        "description": "Four armed men hijack a New York City subway car and demand a ransom for the passengers. The city's police are faced with a conundrum: Even if it's paid, how could they get away?"
+    },
+    "20": {
+        "name": "20. Land of the Lost",
+        "rating": "7.1",
+        "description": "A family finds themselves fighting to survive in a land populated by dinosaurs and otherworldly beings."
+    },
+    "21": {
+        "name": "21. Zardoz",
+        "rating": "5.8",
+        "description": "In the late 23rd century, a savage trained only to kill finds a way into the community of bored immortals that alone preserves humanity's achievements."
+    },
+    "22": {
+        "name": "22. Il Fiore Delle Mille E Una Notte",
+        "rating": "6.7",
+        "description": "In ancient Arabia, a beautiful slave girl chooses a youth to be her new master, then she is kidnapped and they must search for each other. Stories are told within stories: love, travel and the whims of destiny."
+    },
+    "23": {
+        "name": "23. The Longest Yard",
+        "rating": "7.1",
+        "description": "A sadistic warden asks a former pro quarterback, now serving time in his prison, to put together a team of inmates to take on (and get pummeled by) the guards."
+    },
+    "24": {
+        "name": "24. Airport 1975",
+        "rating": "5.7",
+        "description": "A 747 in flight collides with a small plane, and is rendered pilotless. Somehow the control tower must get a pilot aboard so the jet can land."
+    },
+    "25": {
+        "name": "25. The Great Gatsby",
+        "rating": "6.4",
+        "description": "A Midwesterner becomes fascinated with his nouveau riche neighbor, who obsesses over his lost love."
+    }
+}

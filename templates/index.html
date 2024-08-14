@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMDB Top 25 Movies</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <header>
+        <h1>IMDB Top 25 Movies by Year 🍿</h1>
+    </header>
+    <main>
+        <section>
+            <form method="POST">
+                <label for="year">Enter a year:</label>
+                <input type="text" id="year" name="year" required aria-label="Year input" placeholder="e.g., 2022">
+                <button type="submit">Get Movies</button>
+            </form>
+        </section>
+
+        {% if error_message %}
+            <section>
+                <p class="error-message">{{ error_message }}</p>
+            </section>
+        {% endif %}
+
+        {% if movies_data %}
+            <section>
+                <h2>Top 25 Movies for {{ request.form.get('year') }}</h2>
+                <ul>
+                    {% for idx, movie in movies_data.items() %}
+                        <li class="movie">
+                            <h3>{{ movie['name'] }}</h3>
+                            <p class="rating">Rating: {{ movie['rating'] }}</p>
+                            <p class="description">{{ movie['description'] }}</p>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </section>
+        {% endif %}
+    </main>
+</body>
+</html>

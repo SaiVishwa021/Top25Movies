@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. Breaking Bad",
+        "rating": "9.5",
+        "description": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future."
+    },
+    "2": {
+        "name": "2. Sons of Anarchy",
+        "rating": "8.6",
+        "description": "A biker struggles to balance being a father and being involved in an outlaw motorcycle club."
+    },
+    "3": {
+        "name": "3. The Mentalist",
+        "rating": "8.2",
+        "description": "A famous \"psychic\" outs himself as a fake, and starts working as a consultant for the California Bureau of Investigation so he can find \"Red John\", the madman who killed his wife and daughter."
+    },
+    "4": {
+        "name": "4. The Dark Knight",
+        "rating": "9.0",
+        "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness."
+    },
+    "5": {
+        "name": "5. True Blood",
+        "rating": "7.9",
+        "description": "Telepathic waitress Sookie Stackhouse encounters a strange new supernatural world when she meets the mysterious Bill Compton, a southern Louisiana gentleman and vampire."
+    },
+    "6": {
+        "name": "6. Fringe",
+        "rating": "8.4",
+        "description": "An F.B.I. agent is forced to work with an institutionalized scientist and his son in order to rationalize a brewing storm of unexplained phenomena."
+    },
+    "7": {
+        "name": "7. Murdoch Mysteries",
+        "rating": "8.2",
+        "description": "In the 1890s, William Murdoch uses radical forensic techniques for the time, including fingerprinting and trace evidence, to solve some of the city's most gruesome murders."
+    },
+    "8": {
+        "name": "8. Iron Man",
+        "rating": "7.9",
+        "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil."
+    },
+    "9": {
+        "name": "9. Tropic Thunder",
+        "rating": "7.1",
+        "description": "Through a series of freak occurrences, a group of actors shooting a big-budget war movie are forced to become the soldiers they are portraying."
+    },
+    "10": {
+        "name": "10. Twilight",
+        "rating": "5.3",
+        "description": "When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire."
+    },
+    "11": {
+        "name": "11. Star Wars: The Clone Wars",
+        "rating": "8.4",
+        "description": "Jedi Knights lead the Grand Army of the Republic against the droid army of the Separatists."
+    },
+    "12": {
+        "name": "12. Mamma Mia!",
+        "rating": "6.5",
+        "description": "Donna, an independent hotelier, is preparing for her daughter's wedding with the help of two old friends. Meanwhile Sophie, the spirited bride, has a plan. She invites three men from her mother's past in hope of meeting her real father."
+    },
+    "13": {
+        "name": "13. The Incredible Hulk",
+        "rating": "6.6",
+        "description": "Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into whenever he loses his temper."
+    },
+    "14": {
+        "name": "14. Taken",
+        "rating": "7.7",
+        "description": "A retired CIA agent travels across Europe and relies on his old skills to save his estranged daughter, who has been kidnapped while on a trip to Paris."
+    },
+    "15": {
+        "name": "15. Step Brothers",
+        "rating": "6.9",
+        "description": "Two aimless middle-aged losers still living at home are forced against their will to become roommates when their parents marry."
+    },
+    "16": {
+        "name": "16. Ponyo",
+        "rating": "7.6",
+        "description": "A five-year-old boy develops a relationship with Ponyo, a young goldfish princess who longs to become a human after falling in love with him."
+    },
+    "17": {
+        "name": "17. WALL\u00b7E",
+        "rating": "8.4",
+        "description": "A robot who is responsible for cleaning a waste-covered Earth meets another robot and falls in love with her. Together, they set out on a journey that will alter the fate of mankind."
+    },
+    "18": {
+        "name": "18. Leverage",
+        "rating": "7.9",
+        "description": "Nathan Ford and his five-member team of thieves and hackers come together like modern-day Robin Hoods in an attempt to steal from rich and powerful individuals who take advantage of others."
+    },
+    "19": {
+        "name": "19. Martyrs",
+        "rating": "7.0",
+        "description": "A young woman's quest for revenge against the people who kidnapped and tormented her as a child leads her and a friend, who is also a victim of child abuse, on a terrifying journey into a living hell of depravity."
+    },
+    "20": {
+        "name": "20. Merlin",
+        "rating": "7.9",
+        "description": "These are the brand new adventures of Merlin, the legendary sorcerer as a young man, when he was just a servant to young Prince Arthur on the royal court of Camelot, who has soon become his best friend, and turned Arthur into a great king and a legend."
+    },
+    "21": {
+        "name": "21. The Strangers",
+        "rating": "6.1",
+        "description": "James Hoyt and Kristen McKay visit an isolated vacation home to enjoy some time together. However, they are in for a rude surprise when three masked assailants make their stay a nightmare."
+    },
+    "22": {
+        "name": "22. In Bruges",
+        "rating": "7.9",
+        "description": "After a job gone wrong, hitman Ray and his partner await orders from their ruthless boss in Bruges, Belgium, the last place in the world Ray wants to be."
+    },
+    "23": {
+        "name": "23. The Happening",
+        "rating": "5.0",
+        "description": "A science teacher, his wife, and a young girl struggle to survive a plague that causes those infected to commit suicide."
+    },
+    "24": {
+        "name": "24. Sex and the City",
+        "rating": "5.7",
+        "description": "A New York City writer on sex and love is finally getting married to her Mr. Big. But her three best girlfriends must console her after one of them inadvertently leads Mr. Big to jilt her."
+    },
+    "25": {
+        "name": "25. The Reader",
+        "rating": "7.6",
+        "description": "Post-WWII Germany: Nearly a decade after his affair with an older woman came to a mysterious end, law student Michael Berg re-encounters his former lover as she defends herself in a war-crime trial."
+    }
+}

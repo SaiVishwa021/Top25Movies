@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. Back to the Future",
+        "rating": "8.5",
+        "description": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown."
+    },
+    "2": {
+        "name": "2. The Goonies",
+        "rating": "7.7",
+        "description": "A group of young misfits called The Goonies discover an ancient map and set out on an adventure to find a legendary pirate's long-lost treasure."
+    },
+    "3": {
+        "name": "3. The Golden Girls",
+        "rating": "8.2",
+        "description": "Four previously married women live together in Miami, sharing their various experiences together and enjoying themselves despite hard times."
+    },
+    "4": {
+        "name": "4. The Breakfast Club",
+        "rating": "7.8",
+        "description": "Five high school students meet in Saturday detention and discover how they have a great deal more in common than they thought."
+    },
+    "5": {
+        "name": "5. Idi I Smotri",
+        "rating": "8.4",
+        "description": "After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II."
+    },
+    "6": {
+        "name": "6. Clue",
+        "rating": "7.2",
+        "description": "Six guests are anonymously invited to a strange mansion for dinner, but after their host is killed, they must cooperate with the staff to identify the murderer as the bodies pile up."
+    },
+    "7": {
+        "name": "7. Real Genius",
+        "rating": "6.9",
+        "description": "An uptight teenage prodigy enters a top engineering college, but feels awkward among the freewheeling students. When a professor aims to turn their laser project into a military weapon, he and his offbeat roommate plot to ruin the plan."
+    },
+    "8": {
+        "name": "8. Legend",
+        "rating": "6.3",
+        "description": "A young man must stop the Lord of Darkness from destroying daylight and marrying the woman he loves."
+    },
+    "9": {
+        "name": "9. Weird Science",
+        "rating": "6.6",
+        "description": "Two high-school nerds use a computer program to literally create the perfect woman, who promptly turns their lives upside-down."
+    },
+    "10": {
+        "name": "10. The Return of the Living Dead",
+        "rating": "7.3",
+        "description": "When two bumbling employees at a medical supply warehouse accidentally release a deadly gas into the air, the vapors cause the dead to rise again as zombies."
+    },
+    "11": {
+        "name": "11. St. Elmo's Fire",
+        "rating": "6.4",
+        "description": "A group of friends, just out of college, struggle with adulthood."
+    },
+    "12": {
+        "name": "12. Mad Max Beyond Thunderdome",
+        "rating": "6.2",
+        "description": "After being exiled from the most advanced town in post-apocalyptic Australia, a drifter travels with a group of abandoned children to rebel against the town's queen."
+    },
+    "13": {
+        "name": "13. MacGyver",
+        "rating": "7.6",
+        "description": "The adventures of a secret Agent armed with almost infinite scientific resourcefulness."
+    },
+    "14": {
+        "name": "14. Gymkata",
+        "rating": "4.4",
+        "description": "An American gymnast travels to a foreign country to compete in a deadly game not won by anyone other than a native in more than 900 years."
+    },
+    "15": {
+        "name": "15. Teen Wolf",
+        "rating": "6.1",
+        "description": "An ordinary high school student discovers that his family has an unusual pedigree."
+    },
+    "16": {
+        "name": "16. Fright Night",
+        "rating": "7.1",
+        "description": "\"Fright Night\" sees a teenager believing that the newcomer in his neighborhood is a vampire. He turns to an actor in a television hosted horror movie show for help to deal with the undead."
+    },
+    "17": {
+        "name": "17. Brazil",
+        "rating": "7.8",
+        "description": "A bureaucrat in a dystopic society becomes an enemy of the state as he pursues the woman of his dreams."
+    },
+    "18": {
+        "name": "18. Witness",
+        "rating": "7.4",
+        "description": "While protecting an Amish boy - who is the sole witness to a brutal murder - and his mother, a detective is forced to seek refuge within their community when his own life is threatened."
+    },
+    "19": {
+        "name": "19. Commando",
+        "rating": "6.7",
+        "description": "A retired Special Forces colonel tries to save his daughter, who was abducted by his former subordinate."
+    },
+    "20": {
+        "name": "20. After Hours",
+        "rating": "7.6",
+        "description": "Ordinary word processor Paul Hackett experiences the worst night of his life after he agrees to visit Marcy, a Soho resident that he met that evening at a coffee shop."
+    },
+    "21": {
+        "name": "21. Moonlighting",
+        "rating": "7.6",
+        "description": "An ex-model and a smart-aleck detective manage a private detective agency."
+    },
+    "22": {
+        "name": "22. Rambo: First Blood Part II",
+        "rating": "6.5",
+        "description": "Rambo returns to the jungles of Vietnam on a mission to infiltrate an enemy base-camp and rescue the American POWs still held captive there."
+    },
+    "23": {
+        "name": "23. EastEnders",
+        "rating": "4.8",
+        "description": "The everyday lives of working-class inhabitants of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough. The square includes the Queen Vic pub and a street market."
+    },
+    "24": {
+        "name": "24. Better Off Dead...",
+        "rating": "7.1",
+        "description": "After his girlfriend Beth Truss ditches him for boorish ski jock Roy Stalin, sad sack high school student Lane Meyer decides that suicide is the only answer. But his inept attempts bring him nothing but agony and embarrassment."
+    },
+    "25": {
+        "name": "25. My Brother Is My Sister",
+        "rating": "6.5",
+        "description": "Terry feels discriminated against when the summer jobs at the Sun Tribune go to two guys. She decides to do something about it. She dresses like a guy and gets a haircut. Will students at the other high school notice? Girls notice \"him\"."
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. The Simpsons",
+        "rating": "8.7",
+        "description": "The satiric half-hour adventures of a working-class family in the misfit city of Springfield."
+    },
+    "2": {
+        "name": "2. Seinfeld",
+        "rating": "8.9",
+        "description": "The continuing misadventures of neurotic New York City stand-up comedian Jerry Seinfeld and his equally neurotic New York City friends."
+    },
+    "3": {
+        "name": "3. Twin Peaks",
+        "rating": "8.8",
+        "description": "An idiosyncratic FBI agent investigates the murder of a young woman in the even more idiosyncratic town of Twin Peaks."
+    },
+    "4": {
+        "name": "4. Poirot",
+        "rating": "8.6",
+        "description": "Hercule Poirot, a famous Belgian detective, who has an impeccable knack for getting embroiled in a mystery, solves crimes along with Captain Hastings and Scotland Yard Chief Inspector James Japp."
+    },
+    "5": {
+        "name": "5. Honey, I Shrunk the Kids",
+        "rating": "6.4",
+        "description": "The scientist father of a teenage girl and boy accidentally shrinks his and two other neighborhood teens to the size of insects. Now the teens must fight diminutive dangers as the father searches for them."
+    },
+    "6": {
+        "name": "6. Baywatch",
+        "rating": "5.4",
+        "description": "At a Los Angeles beach, a team of lifeguards led by Lieutenant Mitch Buchannon save lives, deal with personal dramas, fight crime and participate in over the top adventures on a daily basis."
+    },
+    "7": {
+        "name": "7. Dead Poets Society",
+        "rating": "8.1",
+        "description": "Maverick teacher John Keating returns in 1959 to the prestigious New England boys' boarding school where he was once a star student, using poetry to embolden his pupils to new heights of self-expression."
+    },
+    "8": {
+        "name": "8. Road House",
+        "rating": "6.7",
+        "description": "A legendary bouncer comes to restore order at a notorious bar but runs afoul of a ruthless crime boss who controls the town."
+    },
+    "9": {
+        "name": "9. Troop Beverly Hills",
+        "rating": "5.9",
+        "description": "A soon to be divorced Beverly Hills socialite is determined to prove to her husband and herself that she can finish what she starts out to do, by becoming a den mother to a troop of Beverly Hills Girl Scouts."
+    },
+    "10": {
+        "name": "10. Batman",
+        "rating": "7.5",
+        "description": "The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker."
+    },
+    "11": {
+        "name": "11. Back to the Future Part II",
+        "rating": "7.8",
+        "description": "After visiting 2015, Marty McFly must repeat his visit to 1955 to prevent disastrous changes to 1985...without interfering with his first trip."
+    },
+    "12": {
+        "name": "12. Parenthood",
+        "rating": "7.1",
+        "description": "Four Buckman siblings attempt to raise their children - each in their own different style - and deal with the joys and sorrows that the process brings."
+    },
+    "13": {
+        "name": "13. Uncle Buck",
+        "rating": "7.1",
+        "description": "Laid back commitment-phobe Buck babysits his brother's rebellious teenage daughter and her cute younger brother and sister."
+    },
+    "14": {
+        "name": "14. Saved by the Bell",
+        "rating": "7.1",
+        "description": "A close-knit group of six friends get through their teens together while attending Bayside High School in Palisades, California."
+    },
+    "15": {
+        "name": "15. Major League",
+        "rating": "7.2",
+        "description": "The new owner of the Cleveland Indians puts together a purposely horrible team so they'll lose and she can move the team. But when the plot is uncovered, they start winning just to spite her."
+    },
+    "16": {
+        "name": "16. The Abyss",
+        "rating": "7.5",
+        "description": "A civilian diving team is enlisted to search for a lost nuclear submarine and faces danger while encountering an alien aquatic species."
+    },
+    "17": {
+        "name": "17. Indiana Jones and the Last Crusade",
+        "rating": "8.2",
+        "description": "In 1938, after his father goes missing while pursuing the Holy Grail, Indiana Jones finds himself up against the Nazis again to stop them from obtaining its powers."
+    },
+    "18": {
+        "name": "18. Heatwave",
+        "rating": "8.0",
+        "description": "On the hottest day of the year on a street in the Bedford-Stuyvesant section of Brooklyn, everyone's hate and bigotry smolders and builds until it explodes into violence."
+    },
+    "19": {
+        "name": "19. The Karate Kid Part III",
+        "rating": "5.3",
+        "description": "Ostracised villain John Kreese attempts to gain revenge on Daniel and Miyagi, with the help of a Vietnam War comrade, the wealthy owner of a toxic waste disposal business."
+    },
+    "20": {
+        "name": "20. Lonesome Dove",
+        "rating": "8.7",
+        "description": "Two former Texas Rangers renew their spirit of adventure as they and several other residents of a small Texas town join a cattle drive to the Montana Territory."
+    },
+    "21": {
+        "name": "21. Family Matters",
+        "rating": "6.6",
+        "description": "The Winslow family deals with various misadventures, many of them caused by their pesky next-door neighbor, ultra-nerd Steve Urkel."
+    },
+    "22": {
+        "name": "22. Steel Magnolias",
+        "rating": "7.3",
+        "description": "A young beautician, newly arrived in a small Louisiana town, finds work at the local salon, where a small group of women share a close bond of friendship, and welcome her into the fold."
+    },
+    "23": {
+        "name": "23. The Little Mermaid",
+        "rating": "7.6",
+        "description": "A mermaid princess makes a Faustian bargain in an attempt to become human and win a prince's love."
+    },
+    "24": {
+        "name": "24. Ghostbusters II",
+        "rating": "6.6",
+        "description": "The discovery of a massive river of ectoplasm and a resurgence of spectral activity allows the staff of Ghostbusters to revive the business."
+    },
+    "25": {
+        "name": "25. Pet Sematary",
+        "rating": "6.5",
+        "description": "After tragedy strikes, a grieving father discovers an ancient burial ground behind his home with the power to raise the dead."
+    }
+}

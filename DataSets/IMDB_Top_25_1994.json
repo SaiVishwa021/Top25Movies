@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. Friends",
+        "rating": "8.9",
+        "description": "Follows the personal and professional lives of six twenty to thirty year-old friends living in the Manhattan borough of New York City."
+    },
+    "2": {
+        "name": "2. The Shawshank Redemption",
+        "rating": "9.3",
+        "description": "A Maine banker convicted of the murder of his wife and her lover in 1947 gradually forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple compassion."
+    },
+    "3": {
+        "name": "3. Pulp Fiction",
+        "rating": "8.9",
+        "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+    },
+    "4": {
+        "name": "4. ER",
+        "rating": "7.9",
+        "description": "The doctors who work in the ER at the County General Hospital in Chicago grapple with ups and downs in their personal and professional lives while trying to give apt medical care to their patients."
+    },
+    "5": {
+        "name": "5. The Crow",
+        "rating": "7.5",
+        "description": "The night before his wedding, musician Eric Draven and his fianc\u00e9e are brutally murdered by members of a violent gang. On the anniversary of their death, Eric rises from the grave and assumes the mantle of the Crow, a supernatural avenger."
+    },
+    "6": {
+        "name": "6. Forrest Gump",
+        "rating": "8.8",
+        "description": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart."
+    },
+    "7": {
+        "name": "7. L\u00e9on",
+        "rating": "8.5",
+        "description": "12-year-old Mathilda is reluctantly taken in by L\u00e9on, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his prot\u00e9g\u00e9e and learns the assassin's trade."
+    },
+    "8": {
+        "name": "8. The Lion King",
+        "rating": "8.5",
+        "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself."
+    },
+    "9": {
+        "name": "9. The Little Rascals",
+        "rating": "6.3",
+        "description": "Alfalfa is wooing Darla and his \"He-Man-Woman-Hating\" friends attempt to sabotage the relationship."
+    },
+    "10": {
+        "name": "10. Angels in the Outfield",
+        "rating": "6.2",
+        "description": "When a boy prays for a chance to have a family if the California Angels win the pennant, angels are assigned to make that possible."
+    },
+    "11": {
+        "name": "11. Interview with the Vampire: The Vampire Chronicles",
+        "rating": "7.5",
+        "description": "A vampire tells his epic life story: love, betrayal, loneliness, and hunger."
+    },
+    "12": {
+        "name": "12. Dumb and Dumber",
+        "rating": "7.3",
+        "description": "After a woman leaves a briefcase at the airport terminal, a dumb limo driver and his dumber friend set out on a hilarious cross-country road trip to Aspen to return it."
+    },
+    "13": {
+        "name": "13. The Mask",
+        "rating": "6.9",
+        "description": "Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask."
+    },
+    "14": {
+        "name": "14. Muriel's Wedding",
+        "rating": "7.2",
+        "description": "A young social outcast in Australia steals money from her parents to finance a vacation where she hopes to find happiness, and perhaps love."
+    },
+    "15": {
+        "name": "15. Speed",
+        "rating": "7.3",
+        "description": "A young police officer must prevent a bomb exploding aboard a city bus by keeping its speed above 50 mph."
+    },
+    "16": {
+        "name": "16. Natural Born Killers",
+        "rating": "7.2",
+        "description": "Two victims of traumatized childhoods become lovers and psychopathic serial murderers irresponsibly glorified by the mass media."
+    },
+    "17": {
+        "name": "17. True Lies",
+        "rating": "7.3",
+        "description": "A fearless, globe-trotting, terrorist-battling secret agent has his life turned upside down when he discovers his wife might be having an affair with a used-car salesman while terrorists smuggle nuclear war heads into the United States."
+    },
+    "18": {
+        "name": "18. Legends of the Fall",
+        "rating": "7.5",
+        "description": "In the early 1900s, three brothers and their father living in the remote wilderness of Montana are affected by betrayal, history, love, nature, and war."
+    },
+    "19": {
+        "name": "19. Ace Ventura: Pet Detective",
+        "rating": "6.9",
+        "description": "A goofy detective specializing in animals goes in search of the missing mascot of the Miami Dolphins."
+    },
+    "20": {
+        "name": "20. Beverly Hills Cop III",
+        "rating": "5.5",
+        "description": "Axel Foley, while investigating a car theft ring, comes across something much bigger than that: the same men who killed his boss are running a counterfeit money ring out of a theme park in Los Angeles."
+    },
+    "21": {
+        "name": "21. Stargate",
+        "rating": "7.0",
+        "description": "An interstellar teleportation device, found in Egypt, leads to a planet with humans resembling ancient Egyptians who worship the god Ra."
+    },
+    "22": {
+        "name": "22. Street Fighter",
+        "rating": "4.1",
+        "description": "In the midst of a civil war in South East Asia, a general intensifies the climate of violence by kidnapping 63 UN delegates. To free the hostages, a colonel leads a group of fighters, who will have to use all their skills to be successful."
+    },
+    "23": {
+        "name": "23. The River Wild",
+        "rating": "6.5",
+        "description": "Rafting expert Gail takes on a pair of armed killers while navigating a spectacularly violent river."
+    },
+    "24": {
+        "name": "24. The Flintstones",
+        "rating": "5.0",
+        "description": "In a parallel modern-day Stone Age world, a working-class family, the Flintstones, are set up for an executive job. But they learn that money can't buy happiness."
+    },
+    "25": {
+        "name": "25. Serial Mom",
+        "rating": "6.8",
+        "description": "She's the perfect all-American parent: a great cook and homemaker, a devoted recycler, and a woman who'll literally kill to keep her children happy."
+    }
+}

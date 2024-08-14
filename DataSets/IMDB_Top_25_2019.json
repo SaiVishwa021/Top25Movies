@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. The Umbrella Academy",
+        "rating": "7.9",
+        "description": "A family of former child heroes, now grown apart, must reunite to continue to protect the world."
+    },
+    "2": {
+        "name": "2. The Boys",
+        "rating": "8.7",
+        "description": "A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers."
+    },
+    "3": {
+        "name": "3. Evil",
+        "rating": "7.8",
+        "description": "A skeptical psychologist joins a Catholic priest-in-training to investigate the church's backlog of unexplained mysteries, miracles, and demonic possessions."
+    },
+    "4": {
+        "name": "4. Sex Education",
+        "rating": "8.2",
+        "description": "A teenage boy with a sex therapist mother teams up with a high school classmate to set up an underground sex therapy clinic at school."
+    },
+    "5": {
+        "name": "5. Demon Slayer: Kimetsu no Yaiba",
+        "rating": "8.6",
+        "description": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister."
+    },
+    "6": {
+        "name": "6. The Witcher",
+        "rating": "8.0",
+        "description": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts."
+    },
+    "7": {
+        "name": "7. Euphoria",
+        "rating": "8.3",
+        "description": "A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence."
+    },
+    "8": {
+        "name": "8. Vienna Blood",
+        "rating": "7.6",
+        "description": "Max Liebermann, a medical student and proteg\u00e9 of Sigmund Freud, helps Detective Rheinhardt in the investigation of a series of disturbing murders around 1900s Vienna."
+    },
+    "9": {
+        "name": "9. Avengers: Endgame",
+        "rating": "8.4",
+        "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe."
+    },
+    "10": {
+        "name": "10. Chernobyl",
+        "rating": "9.3",
+        "description": "In April 1986, the city of Chernobyl in the Soviet Union suffers one of the worst nuclear disasters in the history of mankind. Consequently, many heroes put their lives on the line in the following days, weeks and months."
+    },
+    "11": {
+        "name": "11. The Mandalorian",
+        "rating": "8.6",
+        "description": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic."
+    },
+    "12": {
+        "name": "12. Once Upon a Time... In Hollywood",
+        "rating": "7.6",
+        "description": "As Hollywood's Golden Age is winding down during the summer of 1969, television actor Rick Dalton and his stunt double Cliff Booth endeavor to achieve lasting success in Hollywood while meeting several colorful characters along the way."
+    },
+    "13": {
+        "name": "13. The Gentlemen",
+        "rating": "7.8",
+        "description": "An American expat tries to sell off his highly profitable marijuana empire in London, triggering plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him."
+    },
+    "14": {
+        "name": "14. For All Mankind",
+        "rating": "8.1",
+        "description": "In an alternative version of 1969, the Soviet Union beats the United States to the Moon, and the space race continues on for decades with still grander challenges and goals."
+    },
+    "15": {
+        "name": "15. What We Do in the Shadows",
+        "rating": "8.6",
+        "description": "A look into the nightly lives of four vampires who have lived together on Staten Island for over a century."
+    },
+    "16": {
+        "name": "16. The Morning Show",
+        "rating": "8.2",
+        "description": "An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the team."
+    },
+    "17": {
+        "name": "17. The Mallorca Files",
+        "rating": "6.7",
+        "description": "A British and German detective clashing over how to police the Spanish island of Mallorca."
+    },
+    "18": {
+        "name": "18. Joker",
+        "rating": "8.4",
+        "description": "Arthur Fleck, a party clown and a failed stand-up comedian, leads an impoverished life with his ailing mother. However, when society shuns him and brands him as a freak, he decides to embrace the life of crime and chaos in Gotham City."
+    },
+    "19": {
+        "name": "19. Parasite",
+        "rating": "8.5",
+        "description": "Greed and class discrimination threaten the newly-formed symbiotic relationship between the wealthy Park family and the destitute Kim clan."
+    },
+    "20": {
+        "name": "20. Midsommar",
+        "rating": "7.1",
+        "description": "A couple travels to Northern Europe to visit a rural hometown's fabled Swedish mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult."
+    },
+    "21": {
+        "name": "21. His Dark Materials",
+        "rating": "7.8",
+        "description": "A young girl is destined to liberate her world from the grip of the Magisterium which represses people's ties to magic and their animal spirits known as daemons."
+    },
+    "22": {
+        "name": "22. Dark Phoenix",
+        "rating": "5.7",
+        "description": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix, causing the X-Men to have to decide if her life is worth more than all of humanity."
+    },
+    "23": {
+        "name": "23. Why Women Kill",
+        "rating": "8.3",
+        "description": "An anthology series that follows three women in different decades all living in the same house, as they deal with infidelity and betrayals in their marriages."
+    },
+    "24": {
+        "name": "24. Vinland Saga",
+        "rating": "8.8",
+        "description": "Following a tragedy, Thorfinn embarks on a journey with the man responsible for it to take his life in a duel as a true and honorable warrior to pay homage."
+    },
+    "25": {
+        "name": "25. Hazbin Hotel",
+        "rating": "7.8",
+        "description": "In an attempt to find a non-violent alternative for reducing Hell's overpopulation, the daughter of Lucifer opens a rehabilitation hotel that offers a group of misfit demons a chance at redemption."
+    }
+}

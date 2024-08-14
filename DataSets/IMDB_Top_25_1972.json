@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. The Godfather",
+        "rating": "9.2",
+        "description": "Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son, Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger."
+    },
+    "2": {
+        "name": "2. M*A*S*H",
+        "rating": "8.5",
+        "description": "The staff of an Army hospital in the Korean War find that laughter is the best way to deal with their situation."
+    },
+    "3": {
+        "name": "3. Deliverance",
+        "rating": "7.7",
+        "description": "Intent on seeing the Cahulawassee River before it's dammed and turned into a lake, outdoor fanatic Lewis Medlock takes his friends on a canoeing trip they'll never forget into the dangerous American back-country."
+    },
+    "4": {
+        "name": "4. Ultimo Tango a Parigi",
+        "rating": "6.9",
+        "description": "A young Parisian woman meets a middle-aged American businessman who demands their clandestine relationship be based only on sex."
+    },
+    "5": {
+        "name": "5. The Waltons",
+        "rating": "7.6",
+        "description": "The life and trials of a 1930s and 1940s Virginia mountain family through financial depression and World War II."
+    },
+    "6": {
+        "name": "6. Emergency",
+        "rating": "7.9",
+        "description": "The crew of Los Angeles County Fire Department Station 51, particularly the paramedic team, and Rampart Hospital respond to emergencies in their operating area."
+    },
+    "7": {
+        "name": "7. Pink Flamingos",
+        "rating": "6.0",
+        "description": "Notorious Baltimore criminal and underground figure Divine goes up against a sleazy married couple who make a passionate attempt to humiliate her and seize her tabloid-given title as \"The Filthiest Person Alive\"."
+    },
+    "8": {
+        "name": "8. Are You Being Served?",
+        "rating": "8.0",
+        "description": "The misadventures of the staff of a retail floor of a major department store."
+    },
+    "9": {
+        "name": "9. The Last House on the Left",
+        "rating": "5.9",
+        "description": "Two teenage girls heading to a rock concert for one's birthday try to score marijuana in the city, where they are kidnapped and brutalized by a gang of psychopathic convicts."
+    },
+    "10": {
+        "name": "10. Cabaret",
+        "rating": "7.8",
+        "description": "A female girlie club entertainer in Weimar Republic era Berlin romances two men while the Nazi Party rises to power around them."
+    },
+    "11": {
+        "name": "11. Emmerdale",
+        "rating": "4.8",
+        "description": "A soap opera set in a fictional village in the Yorkshire Dales."
+    },
+    "12": {
+        "name": "12. Sanford and Son",
+        "rating": "7.9",
+        "description": "The misadventures of a cantankerous junk dealer and his frustrated son."
+    },
+    "13": {
+        "name": "13. The Poseidon Adventure",
+        "rating": "7.1",
+        "description": "A group of passengers must embark on a harrowing struggle for survival after a rogue wave capsizes their cruise ship at sea."
+    },
+    "14": {
+        "name": "14. Solarus",
+        "rating": "7.9",
+        "description": "A psychologist is sent to a station orbiting a distant planet in order to discover what has caused the crew to go insane."
+    },
+    "15": {
+        "name": "15. The Bob Newhart Show",
+        "rating": "8.1",
+        "description": "The professional and personal misadventures of a psychologist and his family, patients, friends and colleagues."
+    },
+    "16": {
+        "name": "16. Kung Fu",
+        "rating": "7.6",
+        "description": "The adventures of Shaolin Monk Kwai Chang Caine as he wanders the American West armed only with his skill in Kung Fu."
+    },
+    "17": {
+        "name": "17. Conquest of the Planet of the Apes",
+        "rating": "6.1",
+        "description": "In a futuristic world that has embraced ape slavery, Caesar, the son of the late simians Cornelius and Zira, surfaces after almost twenty years of hiding out from the authorities, and prepares for a slave revolt against humanity."
+    },
+    "18": {
+        "name": "18. ABC Afterschool Specials",
+        "rating": "7.1",
+        "description": "A teen drama anthology that often touched on social issues of the day."
+    },
+    "19": {
+        "name": "19. Fritz the Cat",
+        "rating": "6.2",
+        "description": "In the late 1960s, a pretentious, womanizing young cat drops out of college, starts a riot in Harlem, hits the road with an ex-girlfriend and gets mixed up with domestic terrorists."
+    },
+    "20": {
+        "name": "20. The Getaway",
+        "rating": "7.3",
+        "description": "A recently-released ex-con and his loyal wife go on the run after a heist goes awry."
+    },
+    "21": {
+        "name": "21. Frenzy",
+        "rating": "7.4",
+        "description": "A serial murderer is strangling women with a necktie. The London police have a suspect, but he is the wrong man."
+    },
+    "22": {
+        "name": "22. I Racconti Di Canterbury",
+        "rating": "6.3",
+        "description": "Pasolini's artistic, sometimes violent, always vividly cinematic retelling of some of Chaucer's most erotic tales."
+    },
+    "23": {
+        "name": "23. The Streets of San Francisco",
+        "rating": "7.3",
+        "description": "A veteran cop with more than twenty years of experience is teamed with a young Inspector to solve crimes in San Francisco, California."
+    },
+    "24": {
+        "name": "24. Aguirre, the Wrath of God",
+        "rating": "7.8",
+        "description": "In the 16th century, the ruthless and insane Don Lope de Aguirre leads a Spanish expedition in search of El Dorado."
+    },
+    "25": {
+        "name": "25. La Tua Presenza Nuda!",
+        "rating": "5.8",
+        "description": "A wealthy author's second wife begins to suspect that her 12-year-old stepson may have murdered his mother, who mysteriously died in a bathtub accident."
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. Criminal Minds",
+        "rating": "8.1",
+        "description": "A group of criminal profilers who work for the FBI as members of its Behavioral Analysis Unit (BAU) using behavioral analysis and profiling to help investigate crimes and find the suspect known as the unsub."
+    },
+    "2": {
+        "name": "2. Supernatural",
+        "rating": "8.4",
+        "description": "Two brothers follow their father's footsteps as hunters, fighting evil supernatural beings of many kinds, including monsters, demons, and gods that roam the earth."
+    },
+    "3": {
+        "name": "3. Prison Break",
+        "rating": "8.3",
+        "description": "A structural engineer installs himself in a prison he helped design, in order to save his falsely accused brother from a death sentence by breaking themselves out from the inside."
+    },
+    "4": {
+        "name": "4. Grey's Anatomy",
+        "rating": "7.6",
+        "description": "A drama centered on the personal and professional lives of five surgical interns and their supervisors."
+    },
+    "5": {
+        "name": "5. The Office",
+        "rating": "9.0",
+        "description": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance."
+    },
+    "6": {
+        "name": "6. How I Met Your Mother",
+        "rating": "8.3",
+        "description": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother."
+    },
+    "7": {
+        "name": "7. Doctor Who",
+        "rating": "8.5",
+        "description": "The further adventures in time and space of the alien adventurer known as the Doctor and his companions from planet Earth."
+    },
+    "8": {
+        "name": "8. It's Always Sunny in Philadelphia",
+        "rating": "8.8",
+        "description": "Five friends with big egos and small brains are the proprietors of an Irish pub in Philadelphia."
+    },
+    "9": {
+        "name": "9. Bones",
+        "rating": "7.8",
+        "description": "F.B.I. Special Agent Seeley Booth teams up with the Jeffersonian's top anthropologist, Dr. Temperance Brennan, to investigate cases where all that's left of the victims are their bones."
+    },
+    "10": {
+        "name": "10. Fantastic Four",
+        "rating": "5.7",
+        "description": "A group of astronauts gain superpowers after a cosmic radiation exposure and must use them to oppose the plans of their enemy, Doctor Victor Von Doom."
+    },
+    "11": {
+        "name": "11. Elektra",
+        "rating": "4.7",
+        "description": "Elektra the warrior survives a near-death experience, becomes an assassin-for-hire, and tries to protect her two latest targets, a single father and his young daughter, from a group of supernatural assassins."
+    },
+    "12": {
+        "name": "12. Rome",
+        "rating": "8.7",
+        "description": "A down-to-earth account of the lives of both illustrious and ordinary Romans set in the last days of the Roman Republic."
+    },
+    "13": {
+        "name": "13. A History of Violence",
+        "rating": "7.4",
+        "description": "A mild-mannered man becomes a local hero through an act of violence, which sets off repercussions that will shake his family to its very core."
+    },
+    "14": {
+        "name": "14. Pride & Prejudice",
+        "rating": "7.8",
+        "description": "Sparks fly when spirited Elizabeth Bennet meets single, rich, and proud Mr. Darcy. But Mr. Darcy reluctantly finds himself falling in love with a woman beneath his class. Can each overcome their own pride and prejudice?"
+    },
+    "15": {
+        "name": "15. Avatar: The Last Airbender",
+        "rating": "9.3",
+        "description": "In a war-torn world of elemental powers, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world."
+    },
+    "16": {
+        "name": "16. The Closer",
+        "rating": "7.8",
+        "description": "Deputy Police Chief Brenda Johnson runs the Priority Homicide Division of the LAPD with an unorthodox style. Her innate ability to read people and obtain confessions helps her and her team solve the city's toughest, most sensitive cases."
+    },
+    "17": {
+        "name": "17. Harry Potter and the Goblet of Fire",
+        "rating": "7.7",
+        "description": "Harry Potter finds himself competing in a hazardous tournament between rival schools of magic, but he is distracted by recurring nightmares."
+    },
+    "18": {
+        "name": "18. Kingdom of Heaven",
+        "rating": "7.3",
+        "description": "Balian of Ibelin travels to Jerusalem during the Crusades of the 12th century, and there he finds himself as the defender of the city and its people."
+    },
+    "19": {
+        "name": "19. Batman Begins",
+        "rating": "8.2",
+        "description": "After witnessing his parents' death, Bruce learns the art of fighting to confront injustice. When he returns to Gotham as Batman, he must stop a secret society that intends to destroy the city."
+    },
+    "20": {
+        "name": "20. American Dad!",
+        "rating": "7.4",
+        "description": "The escapades of Stan Smith, a conservative C.I.A. Agent dealing with family life, and keeping America safe."
+    },
+    "21": {
+        "name": "21. Robots",
+        "rating": "6.4",
+        "description": "In a robot world, a young idealistic inventor travels to the big city to join his inspiration's company, only to find himself opposing its sinister new management."
+    },
+    "22": {
+        "name": "22. Lie with Me",
+        "rating": "5.2",
+        "description": "An outgoing, sexually aggressive young woman meets and begins a torrid affair with an equally aggressive young man in which their affair begins to bring a strain on their personal lives."
+    },
+    "23": {
+        "name": "23. Brokeback Mountain",
+        "rating": "7.7",
+        "description": "Ennis and Jack are two shepherds who develop a sexual and emotional relationship. Their relationship becomes complicated when both of them get married to their respective girlfriends."
+    },
+    "24": {
+        "name": "24. The 40 Year Old Virgin",
+        "rating": "7.1",
+        "description": "Goaded by his buddies, a nerdy guy who's never \"done the deed\" only finds the pressure mounting when he meets a single mother."
+    },
+    "25": {
+        "name": "25. Sin City",
+        "rating": "8.0",
+        "description": "An exploration of the dark and miserable Basin City and three of its residents, all of whom are caught up in violent corruption."
+    }
+}

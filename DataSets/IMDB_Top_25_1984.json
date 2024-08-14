@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. Murder, She Wrote",
+        "rating": "7.2",
+        "description": "Professional writer and amateur sleuth Jessica Fletcher uses her intellect, charm, and persistence to get to the bottom of every crime she encounters."
+    },
+    "2": {
+        "name": "2. Ghostbusters",
+        "rating": "7.8",
+        "description": "Three parapsychologists forced out of their university funding set up shop as a unique ghost removal service in New York City, attracting frightened yet skeptical customers."
+    },
+    "3": {
+        "name": "3. Beverly Hills Cop",
+        "rating": "7.4",
+        "description": "A freewheeling Detroit cop pursuing a murder investigation finds himself dealing with the very different culture of Beverly Hills."
+    },
+    "4": {
+        "name": "4. The Karate Kid",
+        "rating": "7.3",
+        "description": "Recently relocated from NJ to LA, Daniel becomes the target of a gang of Cobra Kai dojo students. When Mr. Miyagi saves him with expert Karate skills, Daniel convinces him to teach him to defend himself, and put his bullies in their place."
+    },
+    "5": {
+        "name": "5. The Terminator",
+        "rating": "8.1",
+        "description": "The Terminator, a cyborg assassin from the future, attempts to find and kill Sarah Connor, a waitress who is destined to give birth to a man who will save humankind from extinction."
+    },
+    "6": {
+        "name": "6. Dune",
+        "rating": "6.3",
+        "description": "A Duke's son leads desert warriors against the galactic emperor and his father's evil nemesis to free their desert world from the emperor's rule."
+    },
+    "7": {
+        "name": "7. Once Upon a Time in America",
+        "rating": "8.3",
+        "description": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan 35 years later, where he must once again confront the ghosts and regrets of his old life."
+    },
+    "8": {
+        "name": "8. A Nightmare on Elm Street",
+        "rating": "7.4",
+        "description": "Teenager Nancy Thompson must uncover the dark truth concealed by her parents after she and her friends become targets of the spirit of a serial killer with a bladed glove in their dreams, in which if they die, it kills them in real life."
+    },
+    "9": {
+        "name": "9. The Neverending Story",
+        "rating": "7.3",
+        "description": "A troubled boy dives into a wondrous fantasy world through the pages of a mysterious book."
+    },
+    "10": {
+        "name": "10. Sixteen Candles",
+        "rating": "7.0",
+        "description": "A girl's \"sweet\" sixteenth birthday is anything but special: her family forgets about it, and she suffers from every embarrassment possible."
+    },
+    "11": {
+        "name": "11. Miami Vice",
+        "rating": "7.6",
+        "description": "-Resplendent with authentic 1980s music, fashion, and vibe, \"Miami Vice\" follows two undercover detectives and their extended team through the mean streets of Miami, Florida."
+    },
+    "12": {
+        "name": "12. Night Court",
+        "rating": "7.7",
+        "description": "An eccentric fun-loving judge presides over an urban night court and all the silliness going on there."
+    },
+    "13": {
+        "name": "13. Paris, Texas",
+        "rating": "8.1",
+        "description": "Travis Henderson, an aimless drifter who has been missing for four years, wanders out of the desert and must reconnect with society, himself, his life, and his family."
+    },
+    "14": {
+        "name": "14. 1984",
+        "rating": "7.1",
+        "description": "Based on George Orwell's novel. In a totalitarian future society, Winston Smith, whose work is re-writing history, tries to rebel. He meets a kindred spirit named Julia and they fall into a love affair. Sir Richard Burton's final film."
+    },
+    "15": {
+        "name": "15. Amadeus",
+        "rating": "8.4",
+        "description": "The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was deeply jealous of Mozart's talent and claimed to have murdered him."
+    },
+    "16": {
+        "name": "16. Footloose",
+        "rating": "6.6",
+        "description": "A city teenager moves to a small town where rock music and dancing have been banned, and his rebellious spirit shakes up the populace."
+    },
+    "17": {
+        "name": "17. Police Academy",
+        "rating": "6.7",
+        "description": "The mayor declares that anyone can enroll in the police academy irrespective of their physical condition or education level, and many misfits descend on the academy, including a young troublemaker who's forced to apply or go to jail."
+    },
+    "18": {
+        "name": "18. Indiana Jones and the Temple of Doom",
+        "rating": "7.5",
+        "description": "In 1935, Indiana Jones is tasked by Indian villagers with reclaiming a rock stolen from them by a secret cult beneath the catacombs of an ancient palace."
+    },
+    "19": {
+        "name": "19. Edgar Runs You",
+        "rating": "6.4",
+        "description": "An artificially intelligent PC and his human owner find themselves in a romantic rivalry over a woman."
+    },
+    "20": {
+        "name": "20. Top Secret!",
+        "rating": "7.2",
+        "description": "An American rock and roll singer is invited to a cultural festival in East Germany in order to distract from a plot to destroy NATO submarines, but he accidentally becomes involved in a resistance plot to rescue an imprisoned scientist."
+    },
+    "21": {
+        "name": "21. Gremlins",
+        "rating": "7.3",
+        "description": "A young man inadvertently breaks three important rules concerning his new pet and unleashes a horde of malevolently mischievous monsters on a small town."
+    },
+    "22": {
+        "name": "22. Romancing the Stone",
+        "rating": "6.9",
+        "description": "A mousy romance novelist sets off for Colombia to ransom her kidnapped sister, and soon finds herself in the middle of a dangerous adventure hunting for treasure with a mercenary rogue."
+    },
+    "23": {
+        "name": "23. The Cosby Show",
+        "rating": "7.4",
+        "description": "The goings-on in the life of a successful African-American family."
+    },
+    "24": {
+        "name": "24. Revenge of the Nerds",
+        "rating": "6.6",
+        "description": "At Adams College, a group of bullied outcasts and misfits resolve to fight back for their peace and self-respect."
+    },
+    "25": {
+        "name": "25. Body Double",
+        "rating": "6.8",
+        "description": "A young actor's obsession with spying on a beautiful woman who lives nearby leads to a baffling series of events with drastic consequences."
+    }
+}

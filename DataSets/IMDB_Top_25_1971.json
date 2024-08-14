@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. Columbo",
+        "rating": "8.3",
+        "description": "Los Angeles homicide detective Lieutenant Columbo uses his humble ways and ingenuous demeanor to winkle out even the most well-concealed of crimes."
+    },
+    "2": {
+        "name": "2. A Clockwork Orange",
+        "rating": "8.3",
+        "description": "Alex DeLarge and his droogs barbarize a decaying near-future."
+    },
+    "3": {
+        "name": "3. Willy Wonka & the Chocolate Factory",
+        "rating": "7.8",
+        "description": "A poor but hopeful boy seeks one of the five coveted golden tickets that will send him on a tour of Willy Wonka's mysterious chocolate factory."
+    },
+    "4": {
+        "name": "4. The Decameron",
+        "rating": "7.0",
+        "description": "An adaptation of nine stories from Boccaccio's \"Decameron\"."
+    },
+    "5": {
+        "name": "5. All in the Family",
+        "rating": "8.4",
+        "description": "A working class man constantly squabbles with his family over the important issues of the day."
+    },
+    "6": {
+        "name": "6. The French Connection",
+        "rating": "7.7",
+        "description": "A pair of NYPD detectives in the Narcotics Bureau stumble onto a heroin smuggling ring based in Marseilles, but stopping them and capturing their leaders proves an elusive goal."
+    },
+    "7": {
+        "name": "7. Dirty Harry",
+        "rating": "7.7",
+        "description": "When a man calling himself \"the Scorpio Killer\" menaces San Francisco, tough-as-nails Police Inspector \"Dirty\" Harry Callahan is assigned to track down the crazed psychopath."
+    },
+    "8": {
+        "name": "8. Carnal Knowledge",
+        "rating": "6.9",
+        "description": "Chronicling the lifelong sexual development of two men who meet and become friends in college."
+    },
+    "9": {
+        "name": "9. Duel of Death",
+        "rating": "7.6",
+        "description": "A business commuter is pursued and terrorized by the malevolent driver of a massive tractor-trailer."
+    },
+    "10": {
+        "name": "10. The Last Picture Show",
+        "rating": "8.0",
+        "description": "In 1951, a group of high schoolers come of age in a bleak, isolated, atrophied North Texas town that is slowly dying, both culturally and economically."
+    },
+    "11": {
+        "name": "11. Big Jake",
+        "rating": "7.1",
+        "description": "In 1909, when John Fain's gang kidnaps Jacob McCandles' grandson and holds him for ransom, Big Jake sets out to rescue the boy."
+    },
+    "12": {
+        "name": "12. Straw Dogs",
+        "rating": "7.4",
+        "description": "A young American and his English wife come to rural England and face increasingly vicious local harassment."
+    },
+    "13": {
+        "name": "13. Escape from the Planet of the Apes",
+        "rating": "6.3",
+        "description": "The world is shocked by the appearance of three talking chimpanzees, who arrived mysteriously in a U.S. spacecraft. They become the toast of society, but one man believes them to be a threat to the human race."
+    },
+    "14": {
+        "name": "14. Fiddler on the Roof",
+        "rating": "8.0",
+        "description": "In pre-revolutionary Russia, a Jewish peasant with traditional values contends with marrying off three of his daughters with modern romantic ideals while growing anti-Semitic sentiment threatens his village."
+    },
+    "15": {
+        "name": "15. Diamonds Are Forever",
+        "rating": "6.5",
+        "description": "A diamond smuggling investigation leads James Bond to Las Vegas where he uncovers an evil plot involving a rich business tycoon."
+    },
+    "16": {
+        "name": "16. The Devils",
+        "rating": "7.7",
+        "description": "In 17th-century France, Father Urbain Grandier's protection of the city of Loudun from the corrupt Cardinal Richelieu is undermined by a sexually repressed nun's accusation of witchcraft."
+    },
+    "17": {
+        "name": "17. Wake in Fright",
+        "rating": "7.6",
+        "description": "After a bad gambling bet, a schoolteacher is marooned in a town full of crazy, drunk, violent men who threaten to make him just as crazy, drunk, and violent."
+    },
+    "18": {
+        "name": "18. Vanishing Point",
+        "rating": "7.2",
+        "description": "During the 1970s, car-delivery driver Kowalski delivers hot rods in record time, but always runs into trouble."
+    },
+    "19": {
+        "name": "19. Klute",
+        "rating": "7.1",
+        "description": "A small-town detective searching for a missing man has only one lead: a connection with a New York prostitute."
+    },
+    "20": {
+        "name": "20. Bedknobs and Broomsticks",
+        "rating": "7.0",
+        "description": "An apprentice witch, three kids, and a cynical magician conman search for the missing component to a magic spell to be used in the defense of Britain in World War II."
+    },
+    "21": {
+        "name": "21. Upstairs, Downstairs",
+        "rating": "8.4",
+        "description": "The lives and fortunes of the Bellamy family and their below-stairs servant staff at 165 Eaton Place play out against the social, political and historical backdrop of Edwardian London from 1903 to 1930."
+    },
+    "22": {
+        "name": "22. Harold and Maude",
+        "rating": "7.9",
+        "description": "Young, rich, and obsessed with death, Harold finds himself changed forever when he meets lively septuagenarian Maude at a funeral."
+    },
+    "23": {
+        "name": "23. Walkabout",
+        "rating": "7.6",
+        "description": "Two city-bred siblings are stranded in the Australian Outback, where they learn to survive with the aid of an Aboriginal boy on his \"walkabout\": a ritual separation from his tribe."
+    },
+    "24": {
+        "name": "24. Get Carter",
+        "rating": "7.3",
+        "description": "When his brother dies under mysterious circumstances in a car accident, London gangster Jack Carter travels to Newcastle to investigate."
+    },
+    "25": {
+        "name": "25. The Andromeda Strain",
+        "rating": "7.2",
+        "description": "Top scientists work feverishly in a secret, state-of-the-art laboratory to discover what killed the citizens of a small town and how the deadly contagion can be stopped."
+    }
+}

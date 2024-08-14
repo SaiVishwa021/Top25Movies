@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "rating": "8.3",
+        "description": "An unhinged American general orders a bombing attack on the Soviet Union, triggering a path to nuclear holocaust that a war room full of politicians and generals frantically tries to stop."
+    },
+    "2": {
+        "name": "2. Bewitched",
+        "rating": "7.6",
+        "description": "A witch married to an ordinary man cannot resist using her magic powers to solve the problems her family faces."
+    },
+    "3": {
+        "name": "3. Mary Poppins",
+        "rating": "7.8",
+        "description": "In turn of the century London, a magical nanny employs music and adventure to help two neglected children become closer to their father."
+    },
+    "4": {
+        "name": "4. Gilligan's Island",
+        "rating": "7.4",
+        "description": "Four men and three women are stranded on an uncharted island following a torrential storm."
+    },
+    "5": {
+        "name": "5. The Man from U.N.C.L.E.",
+        "rating": "7.7",
+        "description": "The two top Agents of the United Network Command for Law and Enforcement (U.N.C.L.E.) fight the enemies of peace, particularly the forces of T.H.R.U.S.H."
+    },
+    "6": {
+        "name": "6. A Fistful of Dollars",
+        "rating": "7.9",
+        "description": "A wandering gunfighter plays two rival families against each other in a town torn apart by greed, pride, and revenge."
+    },
+    "7": {
+        "name": "7. Goldfinger",
+        "rating": "7.7",
+        "description": "While investigating a gold magnate's smuggling, James Bond uncovers a plot to contaminate the Fort Knox gold reserve."
+    },
+    "8": {
+        "name": "8. The Addams Family",
+        "rating": "8.0",
+        "description": "The misadventures of a blissfully macabre but extremely loving family."
+    },
+    "9": {
+        "name": "9. Topkapi",
+        "rating": "6.9",
+        "description": "A conman gets mixed up with a group of thieves who plan to rob an Istanbul museum to steal a jewelled dagger."
+    },
+    "10": {
+        "name": "10. The Munsters",
+        "rating": "7.8",
+        "description": "A family of friendly monsters have misadventures, never quite understanding why people react to them so strangely."
+    },
+    "11": {
+        "name": "11. The Americanization of Emily",
+        "rating": "7.3",
+        "description": "An American Naval Officer's talent for living the good life in wartime is challenged when he falls in love and is sent on a dangerous mission."
+    },
+    "12": {
+        "name": "12. Onibaba",
+        "rating": "7.9",
+        "description": "Two women kill samurai and sell their belongings for a living. While one of them is having an affair with their neighbor, the other woman meets a mysterious samurai wearing a bizarre mask."
+    },
+    "13": {
+        "name": "13. My Fair Lady",
+        "rating": "7.7",
+        "description": "In 1910s London, snobbish phonetics professor Henry Higgins agrees to a wager that he can make a crude flower girl, Eliza Doolittle, presentable in high society."
+    },
+    "14": {
+        "name": "14. Marnie",
+        "rating": "7.1",
+        "description": "Mark marries Marnie although she is a habitual thief and has serious psychological problems, and tries to help her confront and resolve them."
+    },
+    "15": {
+        "name": "15. Zulu",
+        "rating": "7.7",
+        "description": "Outnumbered British soldiers do battle with Zulu warriors at Rorke's Drift."
+    },
+    "16": {
+        "name": "16. Another World",
+        "rating": "7.0",
+        "description": "The life in the Midwestern town of Bay City, and the love, loss, trials, and triumph of its residents, who come from different backgrounds and social circles."
+    },
+    "17": {
+        "name": "17. Voyage to the Bottom of the Sea",
+        "rating": "7.2",
+        "description": "The submarine Seaview is commissioned to investigate the mysteries of the seas. Usually it finds more problems than answers."
+    },
+    "18": {
+        "name": "18. Daniel Boone",
+        "rating": "7.3",
+        "description": "Frontier hero Daniel Boone conducts surveys and expeditions around Boonesborough, running into both friendly and hostile Indians, before, during, and even after the Revolutionary War."
+    },
+    "19": {
+        "name": "19. Les parapluies de Cherbourg",
+        "rating": "7.8",
+        "description": "A young woman separated from her lover by war faces a life-altering decision."
+    },
+    "20": {
+        "name": "20. A Hard Day's Night",
+        "rating": "7.5",
+        "description": "Over two \"typical\" days in the life of The Beatles, the boys struggle to keep themselves and Sir Paul McCartney's mischievous grandfather in check while preparing for a live TV performance."
+    },
+    "21": {
+        "name": "21. Gomer Pyle, U.S.M.C.",
+        "rating": "7.0",
+        "description": "The misadventures of a bumbling U.S. Marine named Gomer Pyle."
+    },
+    "22": {
+        "name": "22. The Night of the Iguana",
+        "rating": "7.6",
+        "description": "An ostracized Episcopal clergyman leads a busload of middle-aged Baptist women on a tour of the Mexican coast and comes to terms with the failure haunting his life."
+    },
+    "23": {
+        "name": "23. Woman in the Dunes",
+        "rating": "8.5",
+        "description": "An entomologist on vacation is trapped by local villagers into living with a woman whose life task is shoveling sand for them."
+    },
+    "24": {
+        "name": "24. Fail Safe",
+        "rating": "8.0",
+        "description": "A technical malfunction sends American planes to Moscow to deliver a nuclear attack. Can all-out war be averted?"
+    },
+    "25": {
+        "name": "25. Zorba the Greek",
+        "rating": "7.6",
+        "description": "A reserved English writer travelling to Crete on a matter of business finds his life changed forever when he meets the gregarious Alexis Zorba."
+    }
+}

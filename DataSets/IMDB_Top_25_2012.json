@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. Jack Reacher",
+        "rating": "7.0",
+        "description": "A homicide investigator digs deeper into a case involving a trained military sniper responsible for a mass shooting."
+    },
+    "2": {
+        "name": "2. Gravity Falls",
+        "rating": "8.9",
+        "description": "Twin siblings Dipper and Mabel Pines spend the summer at their great-uncle's tourist trap in the enigmatic Gravity Falls, Oregon."
+    },
+    "3": {
+        "name": "3. Veep",
+        "rating": "8.4",
+        "description": "Former Senator Selina Meyer finds that being Vice President of the United States is nothing like she hoped and everything that everyone ever warned her about."
+    },
+    "4": {
+        "name": "4. Chicago Fire",
+        "rating": "8.0",
+        "description": "The story of firefighters and paramedics in the city of Chicago, both on a personal and professional level."
+    },
+    "5": {
+        "name": "5. Prometheus",
+        "rating": "7.0",
+        "description": "Following clues to the origin of mankind, a team finds a structure on a distant moon, but they soon realize they are not alone."
+    },
+    "6": {
+        "name": "6. The Hunger Games",
+        "rating": "7.2",
+        "description": "Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death."
+    },
+    "7": {
+        "name": "7. Django Unchained",
+        "rating": "8.5",
+        "description": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi."
+    },
+    "8": {
+        "name": "8. Arrow",
+        "rating": "7.5",
+        "description": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow."
+    },
+    "9": {
+        "name": "9. Call the Midwife",
+        "rating": "8.6",
+        "description": "Chronicles the lives of a group of midwives living in East London in the late 1950s to late 1960s."
+    },
+    "10": {
+        "name": "10. The Dark Knight Rises",
+        "rating": "8.4",
+        "description": "Bane, an imposing terrorist, attacks Gotham City and disrupts its eight-year-long period of peace. This forces Bruce Wayne to come out of hiding and don the cape and cowl of Batman again."
+    },
+    "11": {
+        "name": "11. The Avengers",
+        "rating": "8.0",
+        "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity."
+    },
+    "12": {
+        "name": "12. The Hobbit: An Unexpected Journey",
+        "rating": "7.8",
+        "description": "A reluctant Hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home and the gold within it from the dragon Smaug."
+    },
+    "13": {
+        "name": "13. Scandal",
+        "rating": "7.7",
+        "description": "A former White House Communications Director starts her own crisis management firm only to realize her clients are not the only ones with secrets."
+    },
+    "14": {
+        "name": "14. Elementary",
+        "rating": "7.9",
+        "description": "A crime-solving duo that cracks the NYPD's most impossible cases. Following his fall from grace in London, eccentric Sherlock escapes to New York where his father forces him to live with his worst nightmare - a sober companion, Dr. Watson."
+    },
+    "15": {
+        "name": "15. Line of Duty",
+        "rating": "8.7",
+        "description": "Drama series following the investigations of AC-12, a controversial police anti-corruption unit."
+    },
+    "16": {
+        "name": "16. Les Mis\u00e9rables",
+        "rating": "7.5",
+        "description": "In 19th-century France, Jean Valjean, who, for decades, has been hunted by the ruthless policeman Javert after breaking parole, agrees to care for a factory worker's daughter. The decision changes their lives forever."
+    },
+    "17": {
+        "name": "17. Sinister",
+        "rating": "6.8",
+        "description": "A controversial true-crime writer finds a box of Super 8 home movies in his new home, revealing that the murder case he is currently researching could be the work of an unknown serial killer whose legacy dates back to the 1960s."
+    },
+    "18": {
+        "name": "18. JoJo no Kimyou na Bouken",
+        "rating": "8.5",
+        "description": "The story of the Joestar family, who are possessed with intense psychic strength, and the adventures each member encounters throughout their lives."
+    },
+    "19": {
+        "name": "19. Girls",
+        "rating": "7.4",
+        "description": "A comedy about the experiences of a group of girls in their early 20s."
+    },
+    "20": {
+        "name": "20. Pitch Perfect",
+        "rating": "7.1",
+        "description": "Beca, a freshman at Barden University, is cajoled into joining The Bellas, her school's all-girls singing group. Injecting some much needed energy into their repertoire, The Bellas take on their male rivals in a campus competition."
+    },
+    "21": {
+        "name": "21. Jagten",
+        "rating": "8.3",
+        "description": "A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie."
+    },
+    "22": {
+        "name": "22. The Newsroom",
+        "rating": "8.6",
+        "description": "A newsroom undergoes some changes in its workings and morals as a new team is brought in, bringing unexpected results for its existing news anchor."
+    },
+    "23": {
+        "name": "23. That's My Boy",
+        "rating": "5.6",
+        "description": "While in his teens, Donny fathered a son, Todd, and raised him as a single parent until Todd's 18th birthday. Now Donny resurfaces just before Todd's wedding after years apart, sending the groom-to-be's world crashing down."
+    },
+    "24": {
+        "name": "24. Longmire",
+        "rating": "8.3",
+        "description": "Walt Longmire is the dedicated and unflappable sheriff of Absaroka County, Wyoming. Widowed only a year, he is a man in psychic repair but buries his pain behind his brave face, unassuming grin and dry wit."
+    },
+    "25": {
+        "name": "25. 21 Jump Street",
+        "rating": "7.2",
+        "description": "A pair of underachieving cops are sent back to a local high school to blend in and bring down a synthetic drug ring."
+    }
+}

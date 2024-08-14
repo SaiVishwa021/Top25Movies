@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. Star Trek",
+        "rating": "8.4",
+        "description": "In the 23rd Century, Captain James T. Kirk and the crew of the U.S.S. Enterprise explore the galaxy and defend the United Federation of Planets."
+    },
+    "2": {
+        "name": "2. Il Buono, Il Brutto, Il Cattivo",
+        "rating": "8.8",
+        "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery."
+    },
+    "3": {
+        "name": "3. Torn Curtain",
+        "rating": "6.6",
+        "description": "An American scientist publicly defects to East Germany as part of a cloak and dagger mission to find the solution for a formula resin before planning an escape back to the West."
+    },
+    "4": {
+        "name": "4. Hawaii",
+        "rating": "6.5",
+        "description": "An American missionary and his wife travel to the exotic island kingdom of Hawaii, intent on converting the natives. But the clash between the two cultures is too great and instead of understanding there comes tragedy."
+    },
+    "5": {
+        "name": "5. Mission: Impossible",
+        "rating": "7.9",
+        "description": "An elite covert operations unit carries out highly sensitive missions subject to official denial in the event of failure, death or capture."
+    },
+    "6": {
+        "name": "6. Batman",
+        "rating": "7.5",
+        "description": "The Caped Crusader and his young ward battle evildoers in Gotham City."
+    },
+    "7": {
+        "name": "7. Who's Afraid of Virginia Woolf?",
+        "rating": "8.0",
+        "description": "A middle-aged New England associate professor and his wife, with the help of alcohol, use their young guests to fuel anguish and emotional pain towards each other over the course of a distressing night."
+    },
+    "8": {
+        "name": "8. Blowup",
+        "rating": "7.4",
+        "description": "A fashion photographer unknowingly captures a death on film after following two lovers in a park."
+    },
+    "9": {
+        "name": "9. El Dorado",
+        "rating": "7.5",
+        "description": "Cole Thornton, a gunfighter for hire, joins forces with old friend, Sheriff J.P. Hara. Together with an old Indian fighter and a gambler, they help a rancher and his family fight a rival rancher who's trying to steal their water."
+    },
+    "10": {
+        "name": "10. Dark Shadows",
+        "rating": "8.1",
+        "description": "The rich Collins family of Collinsport, Maine is tormented by strange occurrences."
+    },
+    "11": {
+        "name": "11. Family Affair",
+        "rating": "7.0",
+        "description": "Bill's comfortable lifestyle must change when he receives a group of unexpected long-term guests."
+    },
+    "12": {
+        "name": "12. Persona",
+        "rating": "8.1",
+        "description": "A nurse is put in charge of a mute actress and finds that their personae are melding together."
+    },
+    "13": {
+        "name": "13. One Million Years B.C.",
+        "rating": "5.7",
+        "description": "Prehistoric man Tumak is banished from his savage tribe and meets pretty Loana, who belongs to a gentler coastal tribe, but he must fight caveman Payto to win her favors."
+    },
+    "14": {
+        "name": "14. The Russians Are Coming the Russians Are Coming",
+        "rating": "7.0",
+        "description": "Without hostile intent, a Soviet submarine runs aground off New England. Men are sent for a boat, but many villagers go into a tizzy, risking bloodshed."
+    },
+    "15": {
+        "name": "15. The Sand Pebbles",
+        "rating": "7.5",
+        "description": "In 1926, a U.S. Naval engineer gets assigned to a gunboat on a rescue mission in war-torn China."
+    },
+    "16": {
+        "name": "16. Coffin for a Gunfighter",
+        "rating": "7.2",
+        "description": "A coffin-dragging gunslinger and a prostitute become embroiled in a bitter feud between a Klan of Southern racists and a band of Mexican Revolutionaries."
+    },
+    "17": {
+        "name": "17. A Man for All Seasons",
+        "rating": "7.7",
+        "description": "The story of Sir Thomas More, who stood up to King Henry VIII when the King rejected the Roman Catholic Church to obtain a divorce and remarry."
+    },
+    "18": {
+        "name": "18. Hahah Price",
+        "rating": "7.2",
+        "description": "American Grand Prix driver Pete Aron is fired by his Jordan-BRM racing team after a crash at Monaco that injures his British teammate, Scott Stoddard."
+    },
+    "19": {
+        "name": "19. Batman: The Movie",
+        "rating": "6.5",
+        "description": "The Dynamic Duo face four super-villains who plan to hold the world for ransom with the help of a secret invention that instantly dehydrates people."
+    },
+    "20": {
+        "name": "20. Fantastic Voyage",
+        "rating": "6.8",
+        "description": "When a blood clot renders a scientist comatose, a submarine and its crew are shrunk and injected into his bloodstream in order to save him."
+    },
+    "21": {
+        "name": "21. The Rat Patrol",
+        "rating": "7.4",
+        "description": "The World War II North African missions of an Allied commando patrol squad of the Long Range Desert Group."
+    },
+    "22": {
+        "name": "22. The Endless Summer",
+        "rating": "7.6",
+        "description": "The crown jewel to ten years of Bruce Brown surfing documentaries. Brown follows two young surfers around the world in search of the perfect wave, and ends up finding quite a few in addition to some colorful local characters."
+    },
+    "23": {
+        "name": "23. The Chase",
+        "rating": "7.1",
+        "description": "The citizens of a Texan town become concerned and panicked when a local bad boy escapes prison and heads for his hometown."
+    },
+    "24": {
+        "name": "24. La battaglia di Algeri",
+        "rating": "8.1",
+        "description": "In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government."
+    },
+    "25": {
+        "name": "25. Andrei Rublev",
+        "rating": "8.0",
+        "description": "The life, times and afflictions of the fifteenth-century Russian iconographer St. Andrei Rublev."
+    }
+}

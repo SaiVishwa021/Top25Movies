@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. The Wire",
+        "rating": "9.3",
+        "description": "The Baltimore drug scene, as seen through the eyes of drug dealers and law enforcement."
+    },
+    "2": {
+        "name": "2. Monk",
+        "rating": "8.1",
+        "description": "The series follows Adrian Monk, a brilliant former San Francisco detective, who now consults the police as a private consultant while battling with an obsessive-compulsive disorder."
+    },
+    "3": {
+        "name": "3. Spider-Man",
+        "rating": "7.4",
+        "description": "After being bitten by a genetically-modified spider, a shy teenager gains spider-like abilities that he uses to fight injustice as a masked superhero and face a vengeful enemy."
+    },
+    "4": {
+        "name": "4. Blade II",
+        "rating": "6.7",
+        "description": "Blade forms an uneasy alliance with the vampire council in order to combat the Reapers, who are feeding on vampires."
+    },
+    "5": {
+        "name": "5. City of God",
+        "rating": "8.6",
+        "description": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin."
+    },
+    "6": {
+        "name": "6. Firefly",
+        "rating": "8.9",
+        "description": "Five hundred years in the future, a renegade crew aboard a small spacecraft tries to survive as they travel the unknown parts of the galaxy and evade warring factions as well as authority agents out to get them."
+    },
+    "7": {
+        "name": "7. Signs",
+        "rating": "6.8",
+        "description": "A widowed former reverend living with his children and brother on a Pennsylvania farm finds mysterious crop circles in their fields, which suggests something more frightening to come."
+    },
+    "8": {
+        "name": "8. Irr\u00e9versible",
+        "rating": "7.3",
+        "description": "Events over the course of one traumatic night in Paris unfold in reverse-chronological order as the beautiful Alex is brutally raped and beaten by a stranger in an underpass tunnel."
+    },
+    "9": {
+        "name": "9. The Shield",
+        "rating": "8.7",
+        "description": "Follows a gang of corrupt Los Angels Police Department (LAPD) cops called The Strike Team, who uses illegal methods to maintain law and order, whilst engaging in a series of undercover dealings secretly in order to get rich."
+    },
+    "10": {
+        "name": "10. Naruto",
+        "rating": "8.4",
+        "description": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja."
+    },
+    "11": {
+        "name": "11. The Lord of the Rings: The Two Towers",
+        "rating": "8.8",
+        "description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard."
+    },
+    "12": {
+        "name": "12. Secretary",
+        "rating": "6.9",
+        "description": "A young woman, recently released from a mental hospital, gets a job as a secretary to a demanding lawyer, where their employer-employee relationship turns into a sexual, sadomasochistic one."
+    },
+    "13": {
+        "name": "13. Catch Me If You Can",
+        "rating": "8.1",
+        "description": "Barely 17 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit."
+    },
+    "14": {
+        "name": "14. 28 Days Later...",
+        "rating": "7.5",
+        "description": "Four weeks after a mysterious, incurable virus spreads throughout the UK, a handful of survivors try to find sanctuary."
+    },
+    "15": {
+        "name": "15. Harry Potter and the Chamber of Secrets",
+        "rating": "7.4",
+        "description": "Harry Potter lives his second year at Hogwarts with Ron and Hermione when a message on the wall announces that the legendary Chamber of Secrets has been opened. The trio soon realize that, to save the school, it will take a lot of courage."
+    },
+    "16": {
+        "name": "16. CSI: Miami",
+        "rating": "6.5",
+        "description": "Follows an elite group of Crime Scene Investigators (CSI's) from the Miami-Dade Police Department (MDPD), which uses advanced forensic science to solve complex crimes in cross-cultural Miami, Florida."
+    },
+    "17": {
+        "name": "17. The Pianist",
+        "rating": "8.5",
+        "description": "During WWII, acclaimed Polish musician Wladyslaw faces various struggles as he loses contact with his family. As the situation worsens, he hides in the ruins of Warsaw in order to survive."
+    },
+    "18": {
+        "name": "18. National Lampoon's Van Wilder",
+        "rating": "6.4",
+        "description": "The most popular kid on campus meets a beautiful journalist who makes him realize that maybe he's afraid to graduate."
+    },
+    "19": {
+        "name": "19. Scooby-Doo",
+        "rating": "5.3",
+        "description": "After an acrimonious break up, the Mystery Inc. gang are individually brought to an island resort to investigate strange goings on."
+    },
+    "20": {
+        "name": "20. Mr. Deeds",
+        "rating": "5.8",
+        "description": "A sweet-natured, small-town guy inherits a controlling stake in a media conglomerate and begins to do business his way."
+    },
+    "21": {
+        "name": "21. Spooks",
+        "rating": "8.3",
+        "description": "The missions of MI-5, the UK's domestic intelligence organization."
+    },
+    "22": {
+        "name": "22. Unfaithful",
+        "rating": "6.7",
+        "description": "A New York suburban couple's marriage goes dangerously awry when the wife indulges in an adulterous fling."
+    },
+    "23": {
+        "name": "23. The Ring",
+        "rating": "7.1",
+        "description": "A journalist must investigate a mysterious videotape which seems to cause the death of anyone one week to the day after they view it."
+    },
+    "24": {
+        "name": "24. Chicago",
+        "rating": "7.2",
+        "description": "Two death-row murderesses develop a fierce rivalry while competing for publicity, celebrity, and a sleazy lawyer's attention."
+    },
+    "25": {
+        "name": "25. The Bourne Identity",
+        "rating": "7.8",
+        "description": "A man is picked up by a fishing boat, bullet-riddled and suffering from amnesia, before racing to elude assassins and attempting to regain his memory."
+    }
+}

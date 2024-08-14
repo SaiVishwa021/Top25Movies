@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. The X Files",
+        "rating": "8.6",
+        "description": "Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts."
+    },
+    "2": {
+        "name": "2. Frasier",
+        "rating": "8.2",
+        "description": "Dr. Frasier Crane moves back to his hometown of Seattle, where he lives with his father and works as a radio psychiatrist."
+    },
+    "3": {
+        "name": "3. Tombstone",
+        "rating": "7.8",
+        "description": "A successful lawman's plans to retire anonymously in Tombstone, Arizona, are disrupted by the kind of outlaws he was famous for eliminating."
+    },
+    "4": {
+        "name": "4. Jurassic Park",
+        "rating": "8.2",
+        "description": "An industrialist invites some experts to visit his theme park of cloned dinosaurs. After a power failure, the creatures run loose, putting everyone's lives, including his grandchildren's, in danger."
+    },
+    "5": {
+        "name": "5. Schindler's List",
+        "rating": "9.0",
+        "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis."
+    },
+    "6": {
+        "name": "6. Star Trek: Deep Space Nine",
+        "rating": "8.1",
+        "description": "In the vicinity of the liberated planet of Bajor, the Federation space station Deep Space Nine guards the opening of a stable wormhole to the far side of the galaxy."
+    },
+    "7": {
+        "name": "7. Dazed and Confused",
+        "rating": "7.6",
+        "description": "The adventures of high school and junior high students on the last day of school in May 1976."
+    },
+    "8": {
+        "name": "8. The Sandlot",
+        "rating": "7.8",
+        "description": "In the summer of 1962, a new kid in town is taken under the wing of a young baseball prodigy and his rowdy team, resulting in many adventures."
+    },
+    "9": {
+        "name": "9. Son in Law",
+        "rating": "5.9",
+        "description": "Having gotten a taste of college life, a drastically changed farm girl returns home for Thanksgiving break with her best friend, a flamboyant party animal who is clearly a fish out of water in a small farm town."
+    },
+    "10": {
+        "name": "10. The Nanny",
+        "rating": "7.1",
+        "description": "After being fired from her job and dumped by her boyfriend, a cosmetics saleswoman becomes the nanny to the three children of a rich English widower. As time passes, the two fall for each other."
+    },
+    "11": {
+        "name": "11. Boy Meets World",
+        "rating": "8.1",
+        "description": "An adolescent with two siblings tests his various theories about life as he endures the trials of growing up alongside a good friend."
+    },
+    "12": {
+        "name": "12. The Fugitive",
+        "rating": "7.8",
+        "description": "Dr. Richard Kimble, unjustly accused of murdering his wife, must find the real killer while being the target of a nationwide manhunt led by a seasoned U.S. Marshal."
+    },
+    "13": {
+        "name": "13. True Romance",
+        "rating": "7.9",
+        "description": "In Detroit, a pop-culture nerd steals cocaine from his new wife's pimp and tries to sell it in Hollywood, prompting the mobsters who own the drugs to pursue the couple."
+    },
+    "14": {
+        "name": "14. NYPD Blue",
+        "rating": "7.7",
+        "description": "Detectives from NYPD's 15th Precinct investigate homicides within their precinct."
+    },
+    "15": {
+        "name": "15. Mrs. Doubtfire",
+        "rating": "7.1",
+        "description": "After a bitter divorce, an actor disguises himself as a female housekeeper to spend time with his children held in custody by his former wife."
+    },
+    "16": {
+        "name": "16. The Piano",
+        "rating": "7.5",
+        "description": "In the mid-19th century a mute woman is sent to New Zealand along with her young daughter and prized piano for an arranged marriage to a farmer, but is soon lusted after by a farm worker."
+    },
+    "17": {
+        "name": "17. A Bronx Tale",
+        "rating": "7.8",
+        "description": "An intense drama about a boy torn between his tough, hard-working father and a violent yet charismatic crime boss."
+    },
+    "18": {
+        "name": "18. Sister Act 2: Back in the Habit",
+        "rating": "5.7",
+        "description": "Showgirl Deloris Van Cartier returns as Sister Mary Clarence to teach music to a group of Catholic students whose run-down school is slated for closure."
+    },
+    "19": {
+        "name": "19. Walker, Texas Ranger",
+        "rating": "5.6",
+        "description": "Cordell Walker and his partner, James Trivette, are Texas Rangers. They make it their business to battle crime in Dallas and all around the state of Texas."
+    },
+    "20": {
+        "name": "20. The Firm",
+        "rating": "6.9",
+        "description": "A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side."
+    },
+    "21": {
+        "name": "21. Falling Down",
+        "rating": "7.6",
+        "description": "An ordinary man frustrated with the various flaws he sees in society begins to psychotically and violently lash out against them."
+    },
+    "22": {
+        "name": "22. Robin Hood: Men in Tights",
+        "rating": "6.7",
+        "description": "A spoof of Robin Hood in general, and Robin Hood: Prince of Thieves (1991) in particular."
+    },
+    "23": {
+        "name": "23. Cool Runnings",
+        "rating": "7.0",
+        "description": "When a Jamaican sprinter is disqualified from the Olympic Games, he enlists the help of a dishonored coach to start the first Jamaican Bobsled Team."
+    },
+    "24": {
+        "name": "24. Babylon 5",
+        "rating": "8.4",
+        "description": "In the mid 23rd century, the Earth Alliance space station Babylon 5, located in neutral territory, is a major focal point for political intrigue, racial tensions and various wars over the course of five years."
+    },
+    "25": {
+        "name": "25. Groundhog Day",
+        "rating": "8.0",
+        "description": "A narcissistic, self-centered weatherman finds himself in a time loop on Groundhog Day."
+    }
+}

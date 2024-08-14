@@ -1,0 +1,127 @@
+{
+    "1": {
+        "name": "1. The Walking Dead",
+        "rating": "8.1",
+        "description": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive."
+    },
+    "2": {
+        "name": "2. Sherlock",
+        "rating": "9.1",
+        "description": "The quirky spin on Conan Doyle's iconic sleuth pitches him as a \"high-functioning sociopath\" in modern-day London. Assisting him in his investigations: Afghanistan War vet John Watson, who's introduced to Holmes by a mutual acquaintance."
+    },
+    "3": {
+        "name": "3. Blue Bloods",
+        "rating": "7.7",
+        "description": "Revolves around a family of New York cops."
+    },
+    "4": {
+        "name": "4. Spartacus: Blood and Sand",
+        "rating": "8.5",
+        "description": "The life of Spartacus, the gladiator who led a rebellion against the Romans. From his time as an ally of the Romans, to his betrayal and becoming a gladiator, to the rebellion he leads and its ultimate outcome."
+    },
+    "5": {
+        "name": "5. Inception",
+        "rating": "8.8",
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster."
+    },
+    "6": {
+        "name": "6. Downton Abbey",
+        "rating": "8.7",
+        "description": "A chronicle of the lives of the British aristocratic Crawley family and their servants in the early twentieth century."
+    },
+    "7": {
+        "name": "7. RED",
+        "rating": "7.0",
+        "description": "When his peaceful life is threatened by a high-tech assassin, former black-ops agent Frank Moses reassembles his old team in a last-ditch effort to survive and uncover his assailants."
+    },
+    "8": {
+        "name": "8. Justified",
+        "rating": "8.6",
+        "description": "Enforcing his own brand of justice, U.S. Marshal Raylan Givens, a strong-willed, quiet law-man haunted by his past, returns to his native town to see that justice is served to those in need."
+    },
+    "9": {
+        "name": "9. Grown Ups",
+        "rating": "6.0",
+        "description": "After their high school basketball coach passes away, five good friends and former teammates reunite for a Fourth of July holiday weekend."
+    },
+    "10": {
+        "name": "10. Shutter Island",
+        "rating": "8.2",
+        "description": "Teddy Daniels and Chuck Aule, two US marshals, are sent to an asylum on a remote island in order to investigate the disappearance of a patient, where Teddy uncovers a shocking truth about the place."
+    },
+    "11": {
+        "name": "11. Pretty Little Liars",
+        "rating": "7.4",
+        "description": "Four friends band together against an anonymous foe who threatens to reveal their darkest secrets, while also investigating the disappearance of their best friend."
+    },
+    "12": {
+        "name": "12. Hawaii Five-0",
+        "rating": "7.4",
+        "description": "When former United States Navy officer, Steve McGarrett, returns home to Oahu to find his father's killer, the Governor offers him the chance to run his own special task force: Five-0."
+    },
+    "13": {
+        "name": "13. Boardwalk Empire",
+        "rating": "8.6",
+        "description": "An Atlantic City politician plays both sides of the law by conspiring with gangsters during the Prohibition era."
+    },
+    "14": {
+        "name": "14. Srpski Film",
+        "rating": "4.9",
+        "description": "An aging porn star agrees to participate in an \"art film\" in order to make a clean break from the business, only to discover that he has been drafted into making a pedophilia and necrophilia themed snuff film."
+    },
+    "15": {
+        "name": "15. Despicable Me",
+        "rating": "7.6",
+        "description": "Gru, a criminal mastermind, adopts three orphans as pawns to carry out the biggest heist in history. His life takes an unexpected turn when the little girls see the evildoer as their potential father."
+    },
+    "16": {
+        "name": "16. Incendies",
+        "rating": "8.3",
+        "description": "Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes."
+    },
+    "17": {
+        "name": "17. Adventure Time with Finn & Jake",
+        "rating": "8.6",
+        "description": "A 12-year-old boy and his best friend, a wise 28-year-old dog with magical powers, go on a series of surreal adventures in a remote future."
+    },
+    "18": {
+        "name": "18. The Town",
+        "rating": "7.5",
+        "description": "A proficient group of thieves rob a bank and hold an assistant manager hostage. Things begin to get complicated when one of the crew members falls in love with her."
+    },
+    "19": {
+        "name": "19. Black Swan",
+        "rating": "8.0",
+        "description": "Nina is a talented but unstable ballerina on the verge of stardom. Pushed to the breaking point by her artistic director and a seductive rival, Nina's grip on reality slips, plunging her into a waking nightmare."
+    },
+    "20": {
+        "name": "20. How to Train Your Dragon",
+        "rating": "8.1",
+        "description": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed."
+    },
+    "21": {
+        "name": "21. Regular Show",
+        "rating": "8.5",
+        "description": "The surreal misadventures of two best friends - a blue jay and a raccoon - as they seek to liven up their mundane jobs as groundskeepers at the local park."
+    },
+    "22": {
+        "name": "22. Rizzoli & Isles",
+        "rating": "7.6",
+        "description": "Detective Jane Rizzoli and Chief Medical Examiner Dr. Maura Isles team up to solve crimes in Boston."
+    },
+    "23": {
+        "name": "23. The Social Network",
+        "rating": "7.8",
+        "description": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea and by the co-founder who was later squeezed out of the business."
+    },
+    "24": {
+        "name": "24. Scott Pilgrim vs. The World",
+        "rating": "7.6",
+        "description": "In a magically realistic version of Toronto, a young man must defeat his new girlfriend's seven evil exes one by one in order to win her heart."
+    },
+    "25": {
+        "name": "25. Blue Mountain State",
+        "rating": "8.3",
+        "description": "Three incoming freshmen attending Midwestern college football powerhouse Blue Mountain State must quickly adapt to college life and juggle football, girls, classes and nonstop hazing."
+    }
+}
